@@ -60,7 +60,7 @@ Books are auto-tagged into categories like Business & Startups, Science Fiction,
 
 ## ð¤ Powered By
 
-Built as a [Cowork](https://claude.com) skill by Batlab. Runs on Claude with the Bookman skill and a scheduled task.
+Batlab
 
 ---
 
