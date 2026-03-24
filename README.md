@@ -10,10 +10,10 @@ Bookman is an autonomous agent that watches the daily [Lenny's Podcast summaries
 
 | Metric | Count |
 |--------|-------|
-| Total Books | 32 |
-| Episodes Covered | 10 |
-| Categories | 18 |
-| Last Updated | 2026-03-22 |
+| Total Books | 35 |
+| Episodes Covered | 11 |
+| Categories | 26 |
+| Last Updated | 2026-03-24 |
 
 ## ðï¸ Data Files
 
@@ -60,7 +60,7 @@ Books are auto-tagged into categories like Business & Startups, Science Fiction,
 
 ## ð¤ Powered By
 
-Batlab
+Built as a [Cowork](https://claude.com) skill by Batlab. Runs on Claude with the Bookman skill and a scheduled task.
 
 ---
 
