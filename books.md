@@ -1,76 +1,96 @@
-# ð Lenny's Podcast â Book Recommendations
+# ð Bookman â All Recommended Books
 
-*32 books from 10 episodes Â· Last updated 2026-03-22*
+*35 books from 11 episodes. Last updated: 2026-03-24*
 
 ---
 
-## Dr. Becky Kennedy - 2026-03-21
-**Your Coworkers Aren't Difficult**
+## Episode: "The Art of Influence: Why Your Best Ideas Keep Getting Killed (And How to Fix It)" â Jessica Fain (2026-03-23)
 
-- **The Power of Moments** by Chip Heath & Dan Heath
-- **Creativity, Inc.** by Ed Catmull
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | Pachinko | Min Jin Lee | Literary Fiction | [Buy](https://www.amazon.com/s?k=Pachinko+Min+Jin+Lee) |
+| 2 | Homegoing | Yaa Gyasi | Literary Fiction | [Buy](https://www.amazon.com/s?k=Homegoing+Yaa+Gyasi) |
+| 3 | A History of Burning | Janika Oza | Literary Fiction | [Buy](https://www.amazon.com/s?k=A+History+of+Burning+Janika+Oza) |
+| 4 | The Overstory | Richard Powers | Literary Fiction | [Buy](https://www.amazon.com/s?k=The+Overstory+Richard+Powers) |
 
-## Jeetu Patel - 2026-03-20
-**The Cisco President Who Started at $4/Hour**
+## Episode: "Your Coworkers Aren't Difficult â They're Under-Skilled: Dr. Becky Kennedy's Radical Framework for Leading Humans" â Dr. Becky Kennedy (2026-03-21)
 
-- **The Innovator's Dilemma** by Clayton Christensen
-- **The Innovator's Solution** by Clayton Christensen
-- **The Hard Thing About Hard Things** by Ben Horowitz
-- **Be Useful: Seven Tools for Life** by Arnold Schwarzenegger
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | The Power of Moments | Chip Heath & Dan Heath | Psychology & Business | [Buy](https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath+Dan+Heath) |
+| 2 | Creativity, Inc. | Ed Catmull | Business & Creativity | [Buy](https://www.amazon.com/s?k=Creativity+Inc+Ed+Catmull) |
 
-## Jenny Wen - 2026-03-19
-**The Design Process Is Dead**
+## Episode: "The Cisco President Who Started at $4/Hour â and Why He Says AI Is Humanity's Lifeline" â Jeetu Patel (2026-03-20)
 
-- **Radical Candor** by Kim Scott
-- **The Power Broker** by Robert Caro
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | The Innovator's Dilemma | Clayton Christensen | Business & Innovation | [Buy](https://www.amazon.com/s?k=The+Innovators+Dilemma+Clayton+Christensen) |
+| 2 | The Innovator's Solution | Clayton Christensen | Business & Innovation | [Buy](https://www.amazon.com/s?k=The+Innovators+Solution+Clayton+Christensen) |
+| 3 | The Hard Thing About Hard Things | Ben Horowitz | Business & Leadership | [Buy](https://www.amazon.com/s?k=The+Hard+Thing+About+Hard+Things+Ben+Horowitz) |
+| 4 | Be Useful: Seven Tools for Life | Arnold Schwarzenegger | Self-Help & Motivation | [Buy](https://www.amazon.com/s?k=Be+Useful+Seven+Tools+for+Life+Arnold+Schwarzenegger) |
 
-## Sherwin Wu - 2026-03-18
-**Engineers Are Becoming Sorcerers**
+## Episode: "The Design Process Is Dead â And That's a Good Thing" â Jenny Wen (2026-03-19)
 
-- **There Is No Antimemetics Division** by qntm
-- **Breakneck** by Dan Wang
-- **Apple in China** by Patrick McGee
-- **SICP** by Abelson & Sussman
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | Radical Candor | Kim Scott | Leadership & Management | [Buy](https://www.amazon.com/s?k=Radical+Candor+Kim+Scott) |
+| 2 | The Power Broker | Robert Caro | Biography & History | [Buy](https://www.amazon.com/s?k=The+Power+Broker+Robert+Caro) |
 
-## Lenny Rachitsky - 2026-03-17
-**The Man Behind the Mic**
+## Episode: "Engineers Are Becoming Sorcerers: Sherwin Wu on the Future of Software Development" â Sherwin Wu (2026-03-18)
 
-- **Am I Overthinking This?** by Michelle Rial
-- **Charts for Babies** by Michelle Rial
-- **Maybe This Will Help** by Michelle Rial
-- **I Want My Hat Back** by Jon Klassen
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | There Is No Antimemetics Division | qntm | Science Fiction | [Buy](https://www.amazon.com/s?k=There+Is+No+Antimemetics+Division+qntm) |
+| 2 | Breakneck | Dan Wang | Technology & Geopolitics | [Buy](https://www.amazon.com/s?k=Breakneck+Dan+Wang) |
+| 3 | Apple in China | Patrick McGee | Technology & Business | [Buy](https://www.amazon.com/s?k=Apple+in+China+Patrick+McGee) |
+| 4 | Structure and Interpretation of Computer Programs | Harold Abelson & Gerald Jay Sussman | Technology & Programming | [Buy](https://www.amazon.com/s?k=Structure+and+Interpretation+of+Computer+Programs+SICP) |
 
-## Jacob Warwick - 2026-03-16
-**The Tactical Playbook for Getting 20-40% More Comp**
+## Episode: "The Man Behind the Mic: Lenny Rachitsky on Building a Million-Subscriber Empire From Scratch" â Lenny Rachitsky (2026-03-17)
 
-- **Never Split the Difference** by Chris Voss
-- **Getting to Yes** by Roger Fisher & William Ury
-- **Influence** by Robert Cialdini
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | Am I Overthinking This? | Michelle Rial | Humor & Creativity | [Buy](https://www.amazon.com/s?k=Am+I+Overthinking+This+Michelle+Rial) |
+| 2 | Charts for Babies: A Picture Book | Michelle Rial | Humor & Creativity | [Buy](https://www.amazon.com/s?k=Charts+for+Babies+Michelle+Rial) |
+| 3 | Maybe This Will Help | Michelle Rial | Self-Help & Humor | [Buy](https://www.amazon.com/s?k=Maybe+This+Will+Help+Michelle+Rial) |
+| 4 | I Want My Hat Back | Jon Klassen | Children's Literature | [Buy](https://www.amazon.com/s?k=I+Want+My+Hat+Back+Jon+Klassen) |
 
-## Qasar Younis - 2026-03-15
-**The $15 Billion Company Nobody Saw Coming**
+## Episode: "The Tactical Playbook for Getting 20-40% More Comp (Without Sounding Greedy)" â Jacob Warwick (2026-03-16)
 
-- **The History of Standard Oil** by Ida Tarbell
-- **Roman Histories** by Plutarch, Livy, and Gibbon
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | Never Split the Difference | Chris Voss | Negotiation & Communication | [Buy](https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss) |
+| 2 | Getting to Yes | Roger Fisher & William Ury | Negotiation & Communication | [Buy](https://www.amazon.com/s?k=Getting+to+Yes+Roger+Fisher+William+Ury) |
+| 3 | Influence | Robert Cialdini | Psychology & Persuasion | [Buy](https://www.amazon.com/s?k=Influence+Robert+Cialdini) |
 
-## Brian Halligan - 2026-03-12
-**The CEO Equation**
+## Episode: "The $15 Billion Company Nobody Saw Coming" â Qasar Younis (2026-03-15)
 
-- **Marketing Lessons from the Grateful Dead** by Brian Halligan & David Meerman Scott
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | The History of Standard Oil | Ida Tarbell | History & Business | [Buy](https://www.amazon.com/s?k=The+History+of+Standard+Oil+Ida+Tarbell) |
+| 2 | Roman Histories | Plutarch, Livy, and Gibbon | History & Classics | [Buy](https://www.amazon.com/s?k=Roman+Histories+Plutarch+Livy+Gibbon) |
 
-## Boris Cherny - 2026-03-11
-**The Man Who Coded Away the Job of Coding**
+## Episode: "The CEO Equation: Brian Halligan on the Hardest Parts of Building and Scaling a Company" â Brian Halligan (2026-03-12)
 
-- **Functional Programming in Scala** by Paul Chiusano & Runar Bjarnason
-- **Accelerando** by Charles Stross
-- **The Wandering Earth** by Liu Cixin
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | Marketing Lessons from the Grateful Dead | Brian Halligan & David Meerman Scott | Marketing & Business | [Buy](https://www.amazon.com/s?k=Marketing+Lessons+from+the+Grateful+Dead+Brian+Halligan) |
 
-## Mike Maples Jr. - 2026-03-10
-**How Pattern Breakers Win**
+## Episode: "The Man Who Coded Away the Job of Coding: Boris Cherny on Claude Code, the Printing Press Moment, and Why 'Builder' Will Replace 'Engineer'" â Boris Cherny (2026-03-11)
 
-- **Pattern Breakers** by Mike Maples Jr.
-- **The Top Five Regrets of the Dying** by Bronnie Ware
-- **Resonate** by Nancy Duarte
-- **Chase, Chance, and Creativity** by James Austin
-- **Seven Powers** by Hamilton Helmer
-- **Jonathan Livingston Seagull** by Richard Bach
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | Functional Programming in Scala | Paul Chiusano & RÃºnar Bjarnason | Technology & Programming | [Buy](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) |
+| 2 | Accelerando | Charles Stross | Science Fiction | [Buy](https://www.amazon.com/s?k=Accelerando+Charles+Stross) |
+| 3 | The Wandering Earth | Liu Cixin | Science Fiction | [Buy](https://www.amazon.com/s?k=The+Wandering+Earth+Liu+Cixin) |
+
+## Episode: "How Pattern Breakers Win: Mike Maples Jr.'s Framework for Startup Ideas That Change the Future" â Mike Maples Jr. (2026-03-10)
+
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | Pattern Breakers | Mike Maples Jr. | Business & Startups | [Buy](https://www.amazon.com/s?k=Pattern+Breakers+Mike+Maples+Jr) |
+| 2 | The Top Five Regrets of the Dying | Bronnie Ware | Self-Help & Psychology | [Buy](https://www.amazon.com/s?k=The+Top+Five+Regrets+of+the+Dying+Bronnie+Ware) |
+| 3 | Resonate | Nancy Duarte | Communication & Storytelling | [Buy](https://www.amazon.com/s?k=Resonate+Nancy+Duarte) |
+| 4 | Chase, Chance, and Creativity | James Austin | Science & Creativity | [Buy](https://www.amazon.com/s?k=Chase+Chance+and+Creativity+James+Austin) |
+| 5 | Seven Powers | Hamilton Helmer | Business & Strategy | [Buy](https://www.amazon.com/s?k=Seven+Powers+Hamilton+Helmer) |
+| 6 | Jonathan Livingston Seagull | Richard Bach | Fiction & Philosophy | [Buy](https://www.amazon.com/s?k=Jonathan+Livingston+Seagull+Richard+Bach) |
+
