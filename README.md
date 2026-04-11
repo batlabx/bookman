@@ -8,10 +8,10 @@ Every book recommendation from Lenny's Podcast daily summaries on [coverdrive.su
 
 | Metric | Value |
 |--------|-------|
-| 📚 Total Books | 55 |
-| 🎙️ Episodes Covered | 22 |
-| 📁 Categories | 32 |
-| 🗓️ Last Updated | 2026-04-09 |
+| 📚 Total Books | 60 |
+| 🎤 Episodes Covered | 24 |
+| 📁 Categories | 35 |
+| 🗓️ Last Updated | 2026-04-11 |
 
 ## Files
 
@@ -29,3 +29,5 @@ A scheduled Cowork agent runs daily at 6:30 AM and:
 
 ---
 *Built with [Batlab Cowork](https://coverdrive.substack.com)*
+
+---
