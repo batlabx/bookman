@@ -1,33 +1,30 @@
-# 📚 Bookman
+# ð Bookman â Lenny's Podcast Book Tracker
 
-Automated book tracker for [Lenny's Podcast](https://www.lennyspodcast.com/), powered by Batlab's Cowork agent.
-
-Every book recommendation from Lenny's Podcast daily summaries on [coverdrive.substack.com](https://coverdrive.substack.com) is extracted, enriched, and tracked here.
+Every book recommended on [Lenny's Podcast](https://www.lennyspodcast.com/), extracted from daily summaries on [Batlab's Substack](https://coverdrive.substack.com).
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
-| 📚 Total Books | 60 |
-| 🎤 Episodes Covered | 24 |
-| 📁 Categories | 35 |
-| 🗓️ Last Updated | 2026-04-11 |
+| Total Books | 62 |
+| Episodes Covered | 25 |
+| Categories | 36 |
+| Last Updated | 2026-04-13 |
 
 ## Files
 
-- `books.json` — Full database of all book entries
-- `books.md` — Books grouped by episode with Amazon links
-- `trends.md` — Category breakdown, guest analysis, timeline
+- **[books.json](books.json)** â Full structured database of all books
+- **[books.md](books.md)** â Human-readable list grouped by episode
+- **[trends.md](trends.md)** â Category breakdowns, top authors, and timeline
 
 ## How It Works
 
-A scheduled Cowork agent runs daily at 6:30 AM and:
-1. Checks for new Lenny's Podcast summaries on Substack
-2. Extracts book recommendations from the 📚 section
-3. Deduplicates and increments `times_recommended` for repeat picks
-4. Commits updated files to this repo
+Bookman is an automated agent that:
+1. Checks [coverdrive.substack.com](https://coverdrive.substack.com) for new Lenny's Podcast summaries
+2. Extracts book recommendations from the ð Recommended Books section
+3. Deduplicates against the existing database
+4. Enriches entries with Amazon links and category tags
+5. Commits updated files to this repository
 
 ---
-*Built with [Batlab Cowork](https://coverdrive.substack.com)*
-
----
+*Maintained by [Batlab](https://github.com/batlabx) â¢ Powered by Bookman*
