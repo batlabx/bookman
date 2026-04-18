@@ -1,30 +1,26 @@
-# ð Bookman â Lenny's Podcast Book Tracker
+# ð Bookman â Lenny's Podcast Book Tracker
 
-Every book recommended on [Lenny's Podcast](https://www.lennyspodcast.com/), extracted from daily summaries on [Batlab's Substack](https://coverdrive.substack.com).
+Automatically tracks every book recommended on [Lenny's Podcast](https://www.lennyspodcast.com/), extracted from daily summaries on [Batlab's Substack](https://coverdrive.substack.com/).
 
-## Stats
+## ð Stats
 
 | Metric | Value |
 |--------|-------|
-| Total Books | 62 |
-| Episodes Covered | 25 |
-| Categories | 36 |
-| Last Updated | 2026-04-13 |
+| **Total Books** | 64 |
+| **Episodes Covered** | 26 |
+| **Categories** | 36 |
+| **Last Updated** | 2026-04-18 |
 
-## Files
+## ð Files
 
-- **[books.json](books.json)** â Full structured database of all books
-- **[books.md](books.md)** â Human-readable list grouped by episode
-- **[trends.md](trends.md)** â Category breakdowns, top authors, and timeline
+- [`books.json`](books.json) â Complete database with metadata, ratings, and links
+- [`books.md`](books.md) â Human-readable list grouped by episode
+- [`trends.md`](trends.md) â Category breakdown, most featured authors, timeline
 
-## How It Works
+## ð¤ How It Works
 
-Bookman is an automated agent that:
-1. Checks [coverdrive.substack.com](https://coverdrive.substack.com) for new Lenny's Podcast summaries
-2. Extracts book recommendations from the ð Recommended Books section
-3. Deduplicates against the existing database
-4. Enriches entries with Amazon links and category tags
-5. Commits updated files to this repository
+Bookman runs daily at 6:30 AM, checks for new Lenny's Podcast summaries on Substack, extracts book recommendations from the ð section, enriches them with Goodreads ratings and Amazon links, and commits the updated database here.
 
 ---
-*Maintained by [Batlab](https://github.com/batlabx) â¢ Powered by Bookman*
+
+*Powered by [Batlab](https://coverdrive.substack.com/) â¢ Updated automatically*
