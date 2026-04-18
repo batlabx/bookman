@@ -928,5 +928,35 @@
     "amazon_url": "https://www.amazon.com/s?k=The+Upside+of+Stress+Kelly+McGonigal",
     "times_recommended": 1,
     "added_at": "2026-04-13"
+  },
+  {
+    "id": "competing-against-luck-clayton-christensen",
+    "title": "Competing Against Luck",
+    "author": "Clayton Christensen",
+    "category": "Business & Innovation",
+    "guest": "Bret Taylor",
+    "episode_title": "The Builder's Mindset: How Bret Taylor Invented Google Maps, the Like Button, and the Future of AI Agents",
+    "episode_date": "2026-04-18",
+    "source_url": "https://coverdrive.substack.com/p/the-builders-mindset-how-bret-taylor",
+    "goodreads_rating": null,
+    "goodreads_url": null,
+    "amazon_url": "https://www.amazon.com/s?k=Competing+Against+Luck+Clayton+Christensen",
+    "times_recommended": 1,
+    "added_at": "2026-04-18"
+  },
+  {
+    "id": "endurance-alfred-lansing",
+    "title": "Endurance",
+    "author": "Alfred Lansing",
+    "category": "Biography & History",
+    "guest": "Bret Taylor",
+    "episode_title": "The Builder's Mindset: How Bret Taylor Invented Google Maps, the Like Button, and the Future of AI Agents",
+    "episode_date": "2026-04-18",
+    "source_url": "https://coverdrive.substack.com/p/the-builders-mindset-how-bret-taylor",
+    "goodreads_rating": null,
+    "goodreads_url": null,
+    "amazon_url": "https://www.amazon.com/s?k=Endurance+Alfred+Lansing",
+    "times_recommended": 1,
+    "added_at": "2026-04-18"
   }
 ]
