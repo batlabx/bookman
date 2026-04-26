@@ -1,15 +1,15 @@
 # Bookman — Lenny's Podcast Book Tracker
 
-Automatically tracks every book recommended on [Lenny's Podcast](https://www.lennyspodcast.com/), extracted from daily summaries on [Batlab's Substack](https://coverdrive.substack.com/).
+Automatically tracks every book recommended on [Lenny's Podcast](https://www.lennyspodcast.com/), extracted from daily summaries on [Batlab's Substack](https://batlab.substack.com/).
 
 ## 📊 Stats
 
 | Metric | Value |
 |--------|-------|
-| **Total Books** | 65 |
-| **Episodes Covered** | 28 |
-| **Categories** | 36 |
-| **Last Updated** | 2026-04-22 |
+| **Total Books** | 74 |
+| **Episodes Covered** | 32 |
+| **Categories** | 42 |
+| **Last Updated** | 2026-04-26 |
 
 ## 📁 Files
 
@@ -19,4 +19,4 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 
 ## 🤖 How It Works
 
-"Bookman runs daily at 6:30 AM, checks for new Lenny's Podcast summaries on Substack, extracts book recommendations" from the designated section, enriches them with ratings and vendor links, and commits changes to the repository.
+Bookman runs daily at 6:30 AM, checks for new Lenny's Podcast summaries on Substack, extracts book recommendations from the designated section, enriches them with ratings and vendor links, and commits changes to the repository.
