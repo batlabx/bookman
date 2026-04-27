@@ -7,9 +7,9 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 | Metric | Value |
 |--------|-------|
 | **Total Books** | 74 |
-| **Episodes Covered** | 32 |
+| **Episodes Covered** | 33 |
 | **Categories** | 42 |
-| **Last Updated** | 2026-04-26 |
+| **Last Updated** | 2026-04-27 |
 
 ## 📁 Files
 
