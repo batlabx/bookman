@@ -6,10 +6,10 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 
 | Metric | Value |
 |--------|-------|
-| **Total Books** | 74 |
-| **Episodes Covered** | 32 |
-| **Categories** | 42 |
-| **Last Updated** | 2026-04-27 |
+| **Total Books** | 77 |
+| **Episodes Covered** | 33 |
+| **Categories** | 43 |
+| **Last Updated** | 2026-04-28 |
 
 ## 📚 All Recommended Books
 
@@ -17,16 +17,18 @@ Sorted by number of times recommended across episodes.
 
 | Title | Author | Times Recommended | First Recommended By |
 |-------|--------|:-----------------:|----------------------|
+| [The Pragmatic Programmer](https://www.amazon.com/s?k=The+Pragmatic+Programmer+David+Thomas) | David Thomas & Andrew Hunt | ⭐⭐⭐⭐ 4× | Simon Willison |
 | [The Hard Thing About Hard Things](https://www.amazon.com/s?k=The+Hard+Thing+About+Hard+Things+Ben+Horowitz) | Ben Horowitz | ⭐⭐⭐ 3× | Jeetu Patel |
-| [The Pragmatic Programmer](https://www.amazon.com/s?k=The+Pragmatic+Programmer+David+Thomas) | David Thomas & Andrew Hunt | ⭐⭐⭐ 3× | Simon Willison |
 | [Creativity, Inc.](https://www.amazon.com/s?k=Creativity+Inc+Ed+Catmull) | Ed Catmull | ⭐⭐ 2× | Dr. Becky Kennedy |
 | [Crossing the Chasm](https://www.amazon.com/s?k=Crossing+the+Chasm+Geoffrey+Moore) | Geoffrey Moore | ⭐⭐ 2× | Jason Lemkin |
 | [Thinking in Bets](https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke) | Annie Duke | ⭐⭐ 2× | Amol Avasare |
 | [Thinking in Systems](https://www.amazon.com/s?k=Thinking+in+Systems+Donella+H.+Meadows) | Donella H. Meadows | ⭐⭐ 2× | Simon Willison |
+| [Thinking, Fast and Slow](https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman) | Daniel Kahneman | ⭐⭐ 2× | Ronny Kohavi |
 | [A History of Burning](https://www.amazon.com/s?k=A+History+of+Burning+Janika+Oza) | Janika Oza | ⭐ 1× | Jessica Fain |
 | [Accelerando](https://www.amazon.com/s?k=Accelerando+Charles+Stross) | Charles Stross | ⭐ 1× | Boris Cherny |
 | [Am I Overthinking This?](https://www.amazon.com/s?k=Am+I+Overthinking+This+Michelle+Rial) | Michelle Rial | ⭐ 1× | Lenny Rachitsky |
 | [Apple in China](https://www.amazon.com/s?k=Apple+in+China+Patrick+McGee) | Patrick McGee | ⭐ 1× | Sherwin Wu |
+| [Apple: The First 50 Years](https://www.amazon.com/s?k=Apple%3A+The+First+50+Years+David+Pogue) | David Pogue | ⭐ 1× | Evan Spiegel |
 | [Atomic Habits](https://www.amazon.com/s?k=Atomic+Habits+James+Clear) | James Clear | ⭐ 1× | Molly Graham |
 | [Awareness: Conversations with the Masters](https://www.amazon.com/s?k=Awareness+Conversations+with+the+Masters+Anthony+de+Mello) | Anthony de Mello | ⭐ 1× | Amol Avasare |
 | [Be Useful: Seven Tools for Life](https://www.amazon.com/s?k=Be+Useful+Seven+Tools+for+Life+Arnold+Schwarzenegger) | Arnold Schwarzenegger | ⭐ 1× | Jeetu Patel |
@@ -37,10 +39,10 @@ Sorted by number of times recommended across episodes.
 | [Conscious Business](https://www.amazon.com/s?k=Conscious+Business+Fred+Kaufman) | Fred Kaufman | ⭐ 1× | Matt MacInnis |
 | [Endurance](https://www.amazon.com/s?k=Endurance+Alfred+Lansing) | Alfred Lansing | ⭐ 1× | Bret Taylor |
 | [Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) | Paul Chiusano & RÃÂºnar Bjarnason | ⭐ 1× | Boris Cherny |
-| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Getting to Yes](https://www.amazon.com/s?k=Getting+to+Yes+Roger+Fisher+William+Ury) | Roger Fisher & William Ury | ⭐ 1× | Jacob Warwick |
 | [Good to Great](https://www.amazon.com/s?k=Good+to+Great+Jim+Collins) | Jim Collins | ⭐ 1× | Alexander Embiricos |
 | [Goose (Open Source)](https://github.com/block/goose) | Block | ⭐ 1× | Steve Kaliski |
+| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Hidden Multipliers](https://www.amazon.com/s?k=Hidden+Multipliers+Jason+Cohen) | Jason Cohen | ⭐ 1× | Jason Cohen |
 | [High Output Management](https://www.amazon.com/s?k=High+Output+Management+Andy+Grove) | Andy Grove | ⭐ 1× | Adriel Frederick |
 | [Homegoing](https://www.amazon.com/s?k=Homegoing+Yaa+Gyasi) | Yaa Gyasi | ⭐ 1× | Jessica Fain |
@@ -50,6 +52,7 @@ Sorted by number of times recommended across episodes.
 | [Jonathan Livingston Seagull](https://www.amazon.com/s?k=Jonathan+Livingston+Seagull+Richard+Bach) | Richard Bach | ⭐ 1× | Mike Maples Jr. |
 | [Le Ton Beau de Marot](https://www.amazon.com/s?k=Le+Ton+Beau+de+Marot+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Leadership and Self-Deception](https://www.amazon.com/s?k=Leadership+and+Self-Deception+The+Arbinger+Institute) | The Arbinger Institute | ⭐ 1× | Nikhyl Singhal |
+| [Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries](https://www.amazon.com/s?k=Loonshots%3A+How+to+Nurture+the+Crazy+Ideas+That+Win+Wars%2C+Cure+Diseases%2C+and+Transform+Industries+Safi+Bahcall) | Safi Bahcall | ⭐ 1× | Evan Spiegel |
 | [Marketing Lessons from the Grateful Dead](https://www.amazon.com/s?k=Marketing+Lessons+from+the+Grateful+Dead+Brian+Halligan) | Brian Halligan & David Meerman Scott | ⭐ 1× | Brian Halligan |
 | [Maybe This Will Help](https://www.amazon.com/s?k=Maybe+This+Will+Help+Michelle+Rial) | Michelle Rial | ⭐ 1× | Lenny Rachitsky |
 | [Mindset: The New Psychology of Success](https://www.amazon.com/s?k=Mindset%3A+The+New+Psychology+of+Success+Carol+S.+Dweck) | Carol S. Dweck | ⭐ 1× | Zevi Arnovitz |
@@ -69,6 +72,7 @@ Sorted by number of times recommended across episodes.
 | [Structure and Interpretation of Computer Programs](https://www.amazon.com/s?k=Structure+and+Interpretation+of+Computer+Programs+SICP) | Harold Abelson & Gerald Jay Sussman | ⭐ 1× | Sherwin Wu |
 | [The Design of Everyday Things](https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman) | Don Norman | ⭐ 1× | Claire Vo |
 | [The Effective Executive](https://www.amazon.com/s?k=The+Effective+Executive+Peter+Drucker) | Peter Drucker | ⭐ 1× | Matt MacInnis |
+| [The End of the World Is Just the Beginning: Mapping the Collapse of Globalization](https://www.amazon.com/s?k=The+End+of+the+World+Is+Just+the+Beginning%3A+Mapping+the+Collapse+of+Globalization+Peter+Zeihan) | Peter Zeihan | ⭐ 1× | Evan Spiegel |
 | [The Fountainhead](https://www.amazon.com/s?k=The+Fountainhead+Ayn+Rand) | Ayn Rand | ⭐ 1× | Zevi Arnovitz |
 | [The History of Standard Oil](https://www.amazon.com/s?k=The+History+of+Standard+Oil+Ida+Tarbell) | Ida Tarbell | ⭐ 1× | Qasar Younis |
 | [The Innovator's Dilemma](https://www.amazon.com/s?k=The+Innovators+Dilemma+Clayton+Christensen) | Clayton Christensen | ⭐ 1× | Jeetu Patel |
@@ -85,7 +89,6 @@ Sorted by number of times recommended across episodes.
 | [The Upside of Stress](https://www.amazon.com/s?k=The+Upside+of+Stress+Kelly+McGonigal) | Kelly McGonigal | ⭐ 1× | Keith Rabois |
 | [The Wandering Earth](https://www.amazon.com/s?k=The+Wandering+Earth+Liu+Cixin) | Liu Cixin | ⭐ 1× | Boris Cherny |
 | [There Is No Antimemetics Division](https://www.amazon.com/s?k=There+Is+No+Antimemetics+Division+qntm) | qntm | ⭐ 1× | Sherwin Wu |
-| [Thinking, Fast and Slow](https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman) | Daniel Kahneman | ⭐ 1× | Ronny Kohavi |
 | [Trustworthy Online Controlled Experiments](https://www.amazon.com/s?k=Trustworthy+Online+Controlled+Experiments+Ron+Kohavi) | Ron Kohavi, Diane Tang & Ya Xu | ⭐ 1× | Ronny Kohavi |
 | [Wool (Silo Trilogy)](https://www.amazon.com/s?k=Wool+Silo+Trilogy+Hugh+Howey) | Hugh Howey | ⭐ 1× | Gaurav Misra |
 | [Working Backwards](https://www.amazon.com/s?k=Working+Backwards+Colin+Bryar) | Colin Bryar & Bill Carr | ⭐ 1× | Claire Vo |
