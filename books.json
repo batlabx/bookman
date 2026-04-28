@@ -626,7 +626,7 @@
     "goodreads_rating": null,
     "goodreads_url": null,
     "amazon_url": "https://www.amazon.com/s?k=The+Pragmatic+Programmer+David+Thomas",
-    "times_recommended": 3,
+    "times_recommended": 4,
     "added_at": "2026-04-22"
   },
   {
@@ -1001,7 +1001,7 @@
     "goodreads_rating": null,
     "goodreads_url": null,
     "amazon_url": "https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman",
-    "times_recommended": 1,
+    "times_recommended": 2,
     "added_at": "2026-04-26"
   },
   {
@@ -1108,5 +1108,50 @@
     "amazon_url": "https://www.amazon.com/s?k=Wool+Silo+Trilogy+Hugh+Howey",
     "times_recommended": 1,
     "added_at": "2026-04-26"
+  },
+  {
+    "id": "loonshots-safi-bahcall",
+    "title": "Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries",
+    "author": "Safi Bahcall",
+    "category": "Business & Innovation",
+    "guest": "Evan Spiegel",
+    "episode_title": "Distribution Is the New Moat: Evan Spiegel on Why Software Alone Can't Win Anymore",
+    "episode_date": "2026-04-27",
+    "source_url": "https://batlab.substack.com/p/distribution-is-the-new-moat-evan",
+    "goodreads_rating": null,
+    "goodreads_url": null,
+    "amazon_url": "https://www.amazon.com/s?k=Loonshots%3A+How+to+Nurture+the+Crazy+Ideas+That+Win+Wars%2C+Cure+Diseases%2C+and+Transform+Industries+Safi+Bahcall",
+    "times_recommended": 1,
+    "added_at": "2026-04-28"
+  },
+  {
+    "id": "apple-the-first-50-years-david-pogue",
+    "title": "Apple: The First 50 Years",
+    "author": "David Pogue",
+    "category": "Technology & Business",
+    "guest": "Evan Spiegel",
+    "episode_title": "Distribution Is the New Moat: Evan Spiegel on Why Software Alone Can't Win Anymore",
+    "episode_date": "2026-04-27",
+    "source_url": "https://batlab.substack.com/p/distribution-is-the-new-moat-evan",
+    "goodreads_rating": null,
+    "goodreads_url": null,
+    "amazon_url": "https://www.amazon.com/s?k=Apple%3A+The+First+50+Years+David+Pogue",
+    "times_recommended": 1,
+    "added_at": "2026-04-28"
+  },
+  {
+    "id": "the-end-of-the-world-is-just-the-beginning-peter-zeihan",
+    "title": "The End of the World Is Just the Beginning: Mapping the Collapse of Globalization",
+    "author": "Peter Zeihan",
+    "category": "Economics & Geopolitics",
+    "guest": "Evan Spiegel",
+    "episode_title": "Distribution Is the New Moat: Evan Spiegel on Why Software Alone Can't Win Anymore",
+    "episode_date": "2026-04-27",
+    "source_url": "https://batlab.substack.com/p/distribution-is-the-new-moat-evan",
+    "goodreads_rating": null,
+    "goodreads_url": null,
+    "amazon_url": "https://www.amazon.com/s?k=The+End+of+the+World+Is+Just+the+Beginning%3A+Mapping+the+Collapse+of+Globalization+Peter+Zeihan",
+    "times_recommended": 1,
+    "added_at": "2026-04-28"
   }
 ]
