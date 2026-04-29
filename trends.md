@@ -1,28 +1,28 @@
-# 📊 Bookman — Trends & Analytics
+# 📈 Bookman — Trends
 
-_Auto-generated analytics from Lenny's Podcast book recommendations._
+_Updated 2026-04-29_
 
-**Last Updated:** 2026-04-28
 
-## 🏷️ Category Breakdown
+## 📂 Category Breakdown
 
-| Category | Count |
-|----------|:-----:|
+| Category | Books |
+|----------|------:|
 | Leadership & Management | 8 |
 | Science Fiction | 6 |
 | Self-Help & Psychology | 5 |
 | Technology & Programming | 5 |
+| Business & Strategy | 4 |
 | Business & Innovation | 4 |
 | Literary Fiction | 4 |
 | Business & Startups | 2 |
-| Business & Strategy | 2 |
+| Communication & Storytelling | 2 |
 | Fiction & Philosophy | 2 |
 | Negotiation & Communication | 2 |
 | Humor & Creativity | 2 |
 | Technology & Business | 2 |
 | Biography & History | 2 |
 | Business & Leadership | 2 |
-| Communication & Storytelling | 1 |
+| Self-Help & Spirituality | 2 |
 | Science & Creativity | 1 |
 | Marketing & Business | 1 |
 | History & Business | 1 |
@@ -39,7 +39,6 @@ _Auto-generated analytics from Lenny's Podcast book recommendations._
 | Science & Systems Thinking | 1 |
 | Biography & Business | 1 |
 | Business & Decision Making | 1 |
-| Self-Help & Spirituality | 1 |
 | Philosophy | 1 |
 | Literature & Linguistics | 1 |
 | Science & Philosophy | 1 |
@@ -51,27 +50,25 @@ _Auto-generated analytics from Lenny's Podcast book recommendations._
 | Economics & History | 1 |
 | Technology & History | 1 |
 | Economics & Geopolitics | 1 |
+| Leadership & Sports | 1 |
+| Self-Help & Philosophy | 1 |
+| Self-Help & Sports | 1 |
 
-## ✍️ Most Featured Authors (2+ recommendations)
+## ✍️ Most Featured Authors (2+ books)
 
-| Author | Times Recommended |
-|--------|:-----------------:|
-| David Thomas & Andrew Hunt | 4× |
-| Michelle Rial | 3× |
-| Clayton Christensen | 3× |
-| Ben Horowitz | 3× |
-| Ed Catmull | 2× |
-| Geoffrey Moore | 2× |
-| Sam Lessin & Jack Raines | 2× |
-| Donella H. Meadows | 2× |
-| Annie Duke | 2× |
-| Douglas Hofstadter | 2× |
-| Daniel Kahneman | 2× |
+| Author | Books |
+|--------|------:|
+| Clayton Christensen | 3 (The Innovator's Dilemma, The Innovator's Solution, Competing Against Luck) |
+| Michelle Rial | 3 (Am I Overthinking This?, Charts for Babies: A Picture Book, Maybe This Will Help) |
+| Douglas Hofstadter | 2 (Le Ton Beau de Marot, GÃÂ¶del, Escher, Bach) |
+| Jim Collins | 2 (Good to Great, Turning the Flywheel) |
+| Sam Lessin | 2 (Modern Etiquette in Technology, Finance, Society, and at Home, Modern Etiquette in Technology, Finance, Society, and Skiing) |
 
-## 🎙️ Books Per Guest
+## 🎙 Books Per Guest
 
-| Guest | Books Recommended |
-|-------|:-----------------:|
+| Guest | Books |
+|-------|------:|
+| Lane Shackleton | 7 |
 | Mike Maples Jr. | 6 |
 | Lenny Rachitsky | 4 |
 | Sherwin Wu | 4 |
@@ -105,10 +102,11 @@ _Auto-generated analytics from Lenny's Podcast book recommendations._
 | Adriel Frederick | 1 |
 | Gaurav Misra | 1 |
 
-## 📅 Timeline (Books Added)
+## 🗓 Timeline (books added per date)
 
 | Date | Books Added |
-|------|:-----------:|
+|------|------------:|
+| 2026-04-29 | 7 |
 | 2026-04-28 | 3 |
 | 2026-04-26 | 9 |
 | 2026-04-22 | 1 |
