@@ -9,7 +9,7 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 | **Total Books** | 84 |
 | **Episodes Covered** | 34 |
 | **Categories** | 46 |
-| **Last Updated** | 2026-04-29 |
+| **Last Updated** | 2026-05-03 |
 
 ## 📚 All Recommended Books
 
@@ -17,7 +17,7 @@ Sorted by number of times recommended across episodes.
 
 | Title | Author | Times Recommended | First Recommended By |
 |-------|--------|:-----------------:|----------------------|
-| [The Pragmatic Programmer](https://www.amazon.com/s?k=The+Pragmatic+Programmer+David+Thomas) | David Thomas & Andrew Hunt | ⭐⭐⭐⭐ 4× | Simon Willison |
+| [The Pragmatic Programmer](https://www.amazon.com/s?k=The+Pragmatic+Programmer+David+Thomas) | David Thomas & Andrew Hunt | ⭐⭐⭐⭐⭐ 5× | Simon Willison |
 | [The Hard Thing About Hard Things](https://www.amazon.com/s?k=The+Hard+Thing+About+Hard+Things+Ben+Horowitz) | Ben Horowitz | ⭐⭐⭐ 3× | Jeetu Patel |
 | [Creativity, Inc.](https://www.amazon.com/s?k=Creativity+Inc+Ed+Catmull) | Ed Catmull | ⭐⭐ 2× | Dr. Becky Kennedy |
 | [Crossing the Chasm](https://www.amazon.com/s?k=Crossing+the+Chasm+Geoffrey+Moore) | Geoffrey Moore | ⭐⭐ 2× | Jason Lemkin |
@@ -58,8 +58,8 @@ Sorted by number of times recommended across episodes.
 | [Marketing Lessons from the Grateful Dead](https://www.amazon.com/s?k=Marketing+Lessons+from+the+Grateful+Dead+Brian+Halligan) | Brian Halligan & David Meerman Scott | ⭐ 1× | Brian Halligan |
 | [Maybe This Will Help](https://www.amazon.com/s?k=Maybe+This+Will+Help+Michelle+Rial) | Michelle Rial | ⭐ 1× | Lenny Rachitsky |
 | [Mindset: The New Psychology of Success](https://www.amazon.com/s?k=Mindset%3A+The+New+Psychology+of+Success+Carol+S.+Dweck) | Carol S. Dweck | ⭐ 1× | Zevi Arnovitz |
-| [Modern Etiquette in Technology, Finance, Society, and at Home](https://www.amazon.com/s?k=Modern+Etiquette+in+Technology%2C+Finance%2C+Society%2C+and+at+Home+Sam+Lessin) | Sam Lessin & Jack Raines | ⭐ 1× | Sam Lessin |
 | [Modern Etiquette in Technology, Finance, Society, and Skiing](https://www.amazon.com/s?k=Modern+Etiquette+in+Technology%2C+Finance%2C+Society%2C+and+Skiing+Sam+Lessin) | Sam Lessin & Jack Raines | ⭐ 1× | Sam Lessin |
+| [Modern Etiquette in Technology, Finance, Society, and at Home](https://www.amazon.com/s?k=Modern+Etiquette+in+Technology%2C+Finance%2C+Society%2C+and+at+Home+Sam+Lessin) | Sam Lessin & Jack Raines | ⭐ 1× | Sam Lessin |
 | [Never Split the Difference](https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss) | Chris Voss | ⭐ 1× | Jacob Warwick |
 | [Pachinko](https://www.amazon.com/s?k=Pachinko+Min+Jin+Lee) | Min Jin Lee | ⭐ 1× | Jessica Fain |
 | [Pattern Breakers](https://www.amazon.com/s?k=Pattern+Breakers+Mike+Maples+Jr) | Mike Maples Jr. | ⭐ 1× | Mike Maples Jr. |
