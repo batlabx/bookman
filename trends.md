@@ -1,6 +1,6 @@
 # 📈 Bookman — Trends
 
-_Updated 2026-04-29_
+_Updated 2026-05-03_
 
 
 ## 📂 Category Breakdown
@@ -58,13 +58,27 @@ _Updated 2026-04-29_
 
 | Author | Books |
 |--------|------:|
-| Clayton Christensen | 3 (The Innovator's Dilemma, The Innovator's Solution, Competing Against Luck) |
-| Michelle Rial | 3 (Am I Overthinking This?, Charts for Babies: A Picture Book, Maybe This Will Help) |
-| Douglas Hofstadter | 2 (Le Ton Beau de Marot, GÃÂ¶del, Escher, Bach) |
-| Jim Collins | 2 (Good to Great, Turning the Flywheel) |
-| Sam Lessin | 2 (Modern Etiquette in Technology, Finance, Society, and at Home, Modern Etiquette in Technology, Finance, Society, and Skiing) |
+| Michelle Rial | 3 |
+| Clayton Christensen | 3 |
+| Sam Lessin & Jack Raines | 2 |
+| Douglas Hofstadter | 2 |
+| Jim Collins | 2 |
 
-## 🎙 Books Per Guest
+## 🔁 Most Recommended Books (2+ recommendations)
+
+| Title | Author | Times Recommended |
+|-------|--------|:-----------------:|
+| The Pragmatic Programmer | David Thomas & Andrew Hunt | 5× |
+| The Hard Thing About Hard Things | Ben Horowitz | 3× |
+| Creativity, Inc. | Ed Catmull | 2× |
+| Crossing the Chasm | Geoffrey Moore | 2× |
+| Endurance | Alfred Lansing | 2× |
+| Thinking in Bets | Annie Duke | 2× |
+| Thinking in Systems | Donella H. Meadows | 2× |
+| Thinking, Fast and Slow | Daniel Kahneman | 2× |
+| Working Backwards | Colin Bryar & Bill Carr | 2× |
+
+## 🎙️ Books Per Guest
 
 | Guest | Books |
 |-------|------:|
@@ -102,21 +116,33 @@ _Updated 2026-04-29_
 | Adriel Frederick | 1 |
 | Gaurav Misra | 1 |
 
-## 🗓 Timeline (books added per date)
+## 📅 Timeline (Books Per Date)
 
-| Date | Books Added |
-|------|------------:|
+| Date | Books |
+|------|------:|
 | 2026-04-29 | 7 |
-| 2026-04-28 | 3 |
-| 2026-04-26 | 9 |
-| 2026-04-22 | 1 |
+| 2026-04-27 | 3 |
+| 2026-04-25 | 6 |
+| 2026-04-24 | 3 |
 | 2026-04-20 | 1 |
 | 2026-04-18 | 2 |
 | 2026-04-13 | 2 |
-| 2026-04-11 | 5 |
-| 2026-04-09 | 2 |
-| 2026-04-07 | 5 |
-| 2026-04-05 | 11 |
-| 2026-04-03 | 1 |
-| 2026-03-24 | 4 |
-| 2026-03-22 | 31 |
+| 2026-04-10 | 1 |
+| 2026-04-09 | 4 |
+| 2026-04-08 | 2 |
+| 2026-04-07 | 2 |
+| 2026-04-06 | 3 |
+| 2026-04-05 | 1 |
+| 2026-04-04 | 11 |
+| 2026-03-26 | 1 |
+| 2026-03-23 | 4 |
+| 2026-03-21 | 2 |
+| 2026-03-20 | 4 |
+| 2026-03-19 | 2 |
+| 2026-03-18 | 4 |
+| 2026-03-17 | 4 |
+| 2026-03-16 | 3 |
+| 2026-03-15 | 2 |
+| 2026-03-12 | 1 |
+| 2026-03-11 | 3 |
+| 2026-03-10 | 6 |
