@@ -1,6 +1,6 @@
 # 📚 Bookman — All Recommended Books
 
-_Updated 2026-04-29 — 84 books across 34 episodes_
+_Updated 2026-05-03 — 84 books across 34 episodes_
 
 
 ## Episode: "Cathedrals, Not Bricks: How Coda's CPO Builds Product Teams That Compound" — Lane Shackleton (2026-04-29)
