@@ -1,7 +1,13 @@
 # 📚 Bookman — All Recommended Books
 
-_Updated 2026-05-03 — 84 books across 34 episodes_
+_Updated 2026-05-04 — 85 books across 35 episodes_
 
+
+## Episode: "The Agency Era: Max Schoening on Why Notion's PMs Ship Code, Why the First 10% Is Now Free, and Why Skills Matter Less Than They Used To" — Max Schoening (2026-05-04)
+
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | Rams | Gary Hustwit | Design & UX | [Buy](https://www.amazon.com/s?k=Rams+Gary+Hustwit) |
 
 ## Episode: "Cathedrals, Not Bricks: How Coda's CPO Builds Product Teams That Compound" — Lane Shackleton (2026-04-29)
 
@@ -90,7 +96,7 @@ _Updated 2026-05-03 — 84 books across 34 episodes_
 | 1 | Stories of Your Life and Others | Ted Chiang | Science Fiction | [Buy](https://www.amazon.com/s?k=Stories+of+Your+Life+and+Others+Ted+Chiang) |
 | 2 | The Myth of Sisyphus | Albert Camus | Philosophy | [Buy](https://www.amazon.com/s?k=The+Myth+of+Sisyphus+Albert+Camus) |
 | 3 | Le Ton Beau de Marot | Douglas Hofstadter | Literature & Linguistics | [Buy](https://www.amazon.com/s?k=Le+Ton+Beau+de+Marot+Douglas+Hofstadter) |
-| 4 | GÃÂ¶del, Escher, Bach | Douglas Hofstadter | Science & Philosophy | [Buy](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) |
+| 4 | GÃÂ¶del, Escher, Bach | Douglas Hofstadter | Science & Philosophy | [Buy](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) |
 
 ## Episode: "The Uncomfortable Truth About Great Leadership: Matt MacInnis's 10 Contrarian Principles" — Matt MacInnis (2026-04-08)
 
@@ -114,7 +120,7 @@ _Updated 2026-05-03 — 84 books across 34 episodes_
 | 2 | The Joy of Living: Unlocking the Secret and Science of Happiness | Yongey Mingyur Rinpoche | Self-Help & Psychology | [Buy](https://www.amazon.com/s?k=The+Joy+of+Living+Yongey+Mingyur+Rinpoche) |
 | 3 | Awareness: Conversations with the Masters | Anthony de Mello | Self-Help & Spirituality | [Buy](https://www.amazon.com/s?k=Awareness+Conversations+with+the+Masters+Anthony+de+Mello) |
 
-## Episode: "We Replaced Our Sales Team with 20 AI Agents Ã¢ÂÂ And Here's What Actually Happened" — Jason Lemkin (2026-04-05)
+## Episode: "We Replaced Our Sales Team with 20 AI Agents Ã¢ÂÂ And Here's What Actually Happened" — Jason Lemkin (2026-04-05)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -134,7 +140,7 @@ _Updated 2026-05-03 — 84 books across 34 episodes_
 | 2 | The Pragmatic Programmer | David Thomas & Andrew Hunt | Technology & Programming | [Buy](https://www.amazon.com/s?k=The+Pragmatic+Programmer+David+Thomas) |
 | 3 | Thinking in Systems | Donella H. Meadows | Science & Systems Thinking | [Buy](https://www.amazon.com/s?k=Thinking+in+Systems+Donella+H.+Meadows) |
 
-## Episode: "The Real AI Boom Hasn't Even Started Yet Ã¢ÂÂ Marc Andreessen's Vision for What Comes Next" — Marc Andreessen (2026-04-04)
+## Episode: "The Real AI Boom Hasn't Even Started Yet Ã¢ÂÂ Marc Andreessen's Vision for What Comes Next" — Marc Andreessen (2026-04-04)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -176,14 +182,14 @@ _Updated 2026-05-03 — 84 books across 34 episodes_
 | 3 | A History of Burning | Janika Oza | Literary Fiction | [Buy](https://www.amazon.com/s?k=A+History+of+Burning+Janika+Oza) |
 | 4 | The Overstory | Richard Powers | Literary Fiction | [Buy](https://www.amazon.com/s?k=The+Overstory+Richard+Powers) |
 
-## Episode: "Your Coworkers Aren't Difficult Ã¢ÂÂ They're Under-Skilled: Dr. Becky Kennedy's Radical Framework for Leading Humans" — Dr. Becky Kennedy (2026-03-21)
+## Episode: "Your Coworkers Aren't Difficult Ã¢ÂÂ They're Under-Skilled: Dr. Becky Kennedy's Radical Framework for Leading Humans" — Dr. Becky Kennedy (2026-03-21)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | The Power of Moments | Chip Heath & Dan Heath | Psychology & Business | [Buy](https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath+Dan+Heath) |
 | 2 | Creativity, Inc. | Ed Catmull | Business & Creativity | [Buy](https://www.amazon.com/s?k=Creativity+Inc+Ed+Catmull) |
 
-## Episode: "The Cisco President Who Started at $4/Hour Ã¢ÂÂ and Why He Says AI Is Humanity's Lifeline" — Jeetu Patel (2026-03-20)
+## Episode: "The Cisco President Who Started at $4/Hour Ã¢ÂÂ and Why He Says AI Is Humanity's Lifeline" — Jeetu Patel (2026-03-20)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -192,7 +198,7 @@ _Updated 2026-05-03 — 84 books across 34 episodes_
 | 3 | The Hard Thing About Hard Things | Ben Horowitz | Business & Leadership | [Buy](https://www.amazon.com/s?k=The+Hard+Thing+About+Hard+Things+Ben+Horowitz) |
 | 4 | Be Useful: Seven Tools for Life | Arnold Schwarzenegger | Self-Help & Motivation | [Buy](https://www.amazon.com/s?k=Be+Useful+Seven+Tools+for+Life+Arnold+Schwarzenegger) |
 
-## Episode: "The Design Process Is Dead Ã¢ÂÂ And That's a Good Thing" — Jenny Wen (2026-03-19)
+## Episode: "The Design Process Is Dead Ã¢ÂÂ And That's a Good Thing" — Jenny Wen (2026-03-19)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -242,7 +248,7 @@ _Updated 2026-05-03 — 84 books across 34 episodes_
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
-| 1 | Functional Programming in Scala | Paul Chiusano & RÃÂºnar Bjarnason | Technology & Programming | [Buy](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) |
+| 1 | Functional Programming in Scala | Paul Chiusano & RÃÂºnar Bjarnason | Technology & Programming | [Buy](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) |
 | 2 | Accelerando | Charles Stross | Science Fiction | [Buy](https://www.amazon.com/s?k=Accelerando+Charles+Stross) |
 | 3 | The Wandering Earth | Liu Cixin | Science Fiction | [Buy](https://www.amazon.com/s?k=The+Wandering+Earth+Liu+Cixin) |
 
