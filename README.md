@@ -6,10 +6,10 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 
 | Metric | Value |
 |--------|-------|
-| **Total Books** | 84 |
-| **Episodes Covered** | 34 |
+| **Total Books** | 85 |
+| **Episodes Covered** | 35 |
 | **Categories** | 46 |
-| **Last Updated** | 2026-05-03 |
+| **Last Updated** | 2026-05-04 |
 
 ## 📚 All Recommended Books
 
@@ -19,6 +19,7 @@ Sorted by number of times recommended across episodes.
 |-------|--------|:-----------------:|----------------------|
 | [The Pragmatic Programmer](https://www.amazon.com/s?k=The+Pragmatic+Programmer+David+Thomas) | David Thomas & Andrew Hunt | ⭐⭐⭐⭐⭐ 5× | Simon Willison |
 | [The Hard Thing About Hard Things](https://www.amazon.com/s?k=The+Hard+Thing+About+Hard+Things+Ben+Horowitz) | Ben Horowitz | ⭐⭐⭐ 3× | Jeetu Patel |
+| [Competing Against Luck](https://www.amazon.com/s?k=Competing+Against+Luck+Clayton+Christensen) | Clayton Christensen | ⭐⭐ 2× | Bret Taylor |
 | [Creativity, Inc.](https://www.amazon.com/s?k=Creativity+Inc+Ed+Catmull) | Ed Catmull | ⭐⭐ 2× | Dr. Becky Kennedy |
 | [Crossing the Chasm](https://www.amazon.com/s?k=Crossing+the+Chasm+Geoffrey+Moore) | Geoffrey Moore | ⭐⭐ 2× | Jason Lemkin |
 | [Endurance](https://www.amazon.com/s?k=Endurance+Alfred+Lansing) | Alfred Lansing | ⭐⭐ 2× | Bret Taylor |
@@ -37,14 +38,13 @@ Sorted by number of times recommended across episodes.
 | [Breakneck](https://www.amazon.com/s?k=Breakneck+Dan+Wang) | Dan Wang | ⭐ 1× | Sherwin Wu |
 | [Charts for Babies: A Picture Book](https://www.amazon.com/s?k=Charts+for+Babies+Michelle+Rial) | Michelle Rial | ⭐ 1× | Lenny Rachitsky |
 | [Chase, Chance, and Creativity](https://www.amazon.com/s?k=Chase+Chance+and+Creativity+James+Austin) | James Austin | ⭐ 1× | Mike Maples Jr. |
-| [Competing Against Luck](https://www.amazon.com/s?k=Competing+Against+Luck+Clayton+Christensen) | Clayton Christensen | ⭐ 1× | Bret Taylor |
 | [Conscious Business](https://www.amazon.com/s?k=Conscious+Business+Fred+Kaufman) | Fred Kaufman | ⭐ 1× | Matt MacInnis |
-| [Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) | Paul Chiusano & RÃÂºnar Bjarnason | ⭐ 1× | Boris Cherny |
+| [Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) | Paul Chiusano & RÃÂºnar Bjarnason | ⭐ 1× | Boris Cherny |
 | [Getting to Yes](https://www.amazon.com/s?k=Getting+to+Yes+Roger+Fisher+William+Ury) | Roger Fisher & William Ury | ⭐ 1× | Jacob Warwick |
 | [Good Strategy/Bad Strategy](https://www.amazon.com/s?k=Good+Strategy%2FBad+Strategy+Richard+Rumelt) | Richard Rumelt | ⭐ 1× | Lane Shackleton |
 | [Good to Great](https://www.amazon.com/s?k=Good+to+Great+Jim+Collins) | Jim Collins | ⭐ 1× | Alexander Embiricos |
 | [Goose (Open Source)](https://github.com/block/goose) | Block | ⭐ 1× | Steve Kaliski |
-| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
+| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Hidden Multipliers](https://www.amazon.com/s?k=Hidden+Multipliers+Jason+Cohen) | Jason Cohen | ⭐ 1× | Jason Cohen |
 | [High Output Management](https://www.amazon.com/s?k=High+Output+Management+Andy+Grove) | Andy Grove | ⭐ 1× | Adriel Frederick |
 | [Homegoing](https://www.amazon.com/s?k=Homegoing+Yaa+Gyasi) | Yaa Gyasi | ⭐ 1× | Jessica Fain |
@@ -64,6 +64,7 @@ Sorted by number of times recommended across episodes.
 | [Pachinko](https://www.amazon.com/s?k=Pachinko+Min+Jin+Lee) | Min Jin Lee | ⭐ 1× | Jessica Fain |
 | [Pattern Breakers](https://www.amazon.com/s?k=Pattern+Breakers+Mike+Maples+Jr) | Mike Maples Jr. | ⭐ 1× | Mike Maples Jr. |
 | [Radical Candor](https://www.amazon.com/s?k=Radical+Candor+Kim+Scott) | Kim Scott | ⭐ 1× | Jenny Wen |
+| [Rams](https://www.amazon.com/s?k=Rams+Gary+Hustwit) | Gary Hustwit | ⭐ 1× | Max Schoening |
 | [Resonate](https://www.amazon.com/s?k=Resonate+Nancy+Duarte) | Nancy Duarte | ⭐ 1× | Mike Maples Jr. |
 | [Roman Histories](https://www.amazon.com/s?k=Roman+Histories+Plutarch+Livy+Gibbon) | Plutarch, Livy, Gibbon | ⭐ 1× | Qasar Younis |
 | [Scaling People](https://www.amazon.com/s?k=Scaling+People+Claire+Hughes+Johnson) | Claire Hughes Johnson | ⭐ 1× | Molly Graham |
