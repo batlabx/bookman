@@ -1,27 +1,28 @@
 # 📈 Bookman — Trends
 
-_Updated 2026-05-04_
+_Updated 2026-05-06_
 
 
 ## 📂 Category Breakdown
 
 | Category | Books |
 |----------|------:|
-| Leadership & Management | 8 |
+| Leadership & Management | 9 |
 | Science Fiction | 6 |
 | Self-Help & Psychology | 5 |
 | Technology & Programming | 5 |
 | Business & Innovation | 4 |
 | Business & Strategy | 4 |
 | Literary Fiction | 4 |
+| Business & Startups | 3 |
 | Biography & History | 2 |
 | Business & Leadership | 2 |
-| Business & Startups | 2 |
 | Communication & Storytelling | 2 |
 | Design & UX | 2 |
 | Fiction & Philosophy | 2 |
 | Humor & Creativity | 2 |
 | Negotiation & Communication | 2 |
+| Product Management | 2 |
 | Self-Help & Spirituality | 2 |
 | Technology & Business | 2 |
 | Biography & Business | 1 |
@@ -85,6 +86,7 @@ _Updated 2026-05-04_
 |-------|------:|
 | Lane Shackleton | 7 |
 | Mike Maples Jr. | 6 |
+| Christine Itwaru | 4 |
 | Edwin Chen | 4 |
 | Jeetu Patel | 4 |
 | Jessica Fain | 4 |
@@ -122,6 +124,7 @@ _Updated 2026-05-04_
 
 | Date | Books |
 |------|------:|
+| 2026-05-06 | 4 |
 | 2026-05-04 | 1 |
 | 2026-04-29 | 7 |
 | 2026-04-27 | 3 |
