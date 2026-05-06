@@ -6,10 +6,10 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 
 | Metric | Value |
 |--------|-------|
-| **Total Books** | 85 |
-| **Episodes Covered** | 35 |
-| **Categories** | 46 |
-| **Last Updated** | 2026-05-04 |
+| **Total Books** | 89 |
+| **Episodes Covered** | 36 |
+| **Categories** | 47 |
+| **Last Updated** | 2026-05-06 |
 
 ## 📚 All Recommended Books
 
@@ -39,20 +39,22 @@ Sorted by number of times recommended across episodes.
 | [Charts for Babies: A Picture Book](https://www.amazon.com/s?k=Charts+for+Babies+Michelle+Rial) | Michelle Rial | ⭐ 1× | Lenny Rachitsky |
 | [Chase, Chance, and Creativity](https://www.amazon.com/s?k=Chase+Chance+and+Creativity+James+Austin) | James Austin | ⭐ 1× | Mike Maples Jr. |
 | [Conscious Business](https://www.amazon.com/s?k=Conscious+Business+Fred+Kaufman) | Fred Kaufman | ⭐ 1× | Matt MacInnis |
-| [Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) | Paul Chiusano & RÃÂºnar Bjarnason | ⭐ 1× | Boris Cherny |
+| [Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) | Paul Chiusano & RÃÂºnar Bjarnason | ⭐ 1× | Boris Cherny |
 | [Getting to Yes](https://www.amazon.com/s?k=Getting+to+Yes+Roger+Fisher+William+Ury) | Roger Fisher & William Ury | ⭐ 1× | Jacob Warwick |
 | [Good Strategy/Bad Strategy](https://www.amazon.com/s?k=Good+Strategy%2FBad+Strategy+Richard+Rumelt) | Richard Rumelt | ⭐ 1× | Lane Shackleton |
 | [Good to Great](https://www.amazon.com/s?k=Good+to+Great+Jim+Collins) | Jim Collins | ⭐ 1× | Alexander Embiricos |
 | [Goose (Open Source)](https://github.com/block/goose) | Block | ⭐ 1× | Steve Kaliski |
-| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
+| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Hidden Multipliers](https://www.amazon.com/s?k=Hidden+Multipliers+Jason+Cohen) | Jason Cohen | ⭐ 1× | Jason Cohen |
 | [High Output Management](https://www.amazon.com/s?k=High+Output+Management+Andy+Grove) | Andy Grove | ⭐ 1× | Adriel Frederick |
 | [Homegoing](https://www.amazon.com/s?k=Homegoing+Yaa+Gyasi) | Yaa Gyasi | ⭐ 1× | Jessica Fain |
 | [How Asia Works](https://www.amazon.com/s?k=How+Asia+Works+Joe+Studwell) | Joe Studwell | ⭐ 1× | Cat Wu |
 | [I Want My Hat Back](https://www.amazon.com/s?k=I+Want+My+Hat+Back+Jon+Klassen) | Jon Klassen | ⭐ 1× | Lenny Rachitsky |
 | [Influence](https://www.amazon.com/s?k=Influence+Robert+Cialdini) | Robert Cialdini | ⭐ 1× | Jacob Warwick |
+| [Inspired](https://www.amazon.com/s?k=Inspired+Marty+Cagan) | Marty Cagan | ⭐ 1× | Christine Itwaru |
 | [Jonathan Livingston Seagull](https://www.amazon.com/s?k=Jonathan+Livingston+Seagull+Richard+Bach) | Richard Bach | ⭐ 1× | Mike Maples Jr. |
 | [Le Ton Beau de Marot](https://www.amazon.com/s?k=Le+Ton+Beau+de+Marot+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
+| [Leaders Eat Last](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinek) | Simon Sinek | ⭐ 1× | Christine Itwaru |
 | [Leadership and Self-Deception](https://www.amazon.com/s?k=Leadership+and+Self-Deception+The+Arbinger+Institute) | The Arbinger Institute | ⭐ 1× | Nikhyl Singhal |
 | [Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries](https://www.amazon.com/s?k=Loonshots%3A+How+to+Nurture+the+Crazy+Ideas+That+Win+Wars%2C+Cure+Diseases%2C+and+Transform+Industries+Safi+Bahcall) | Safi Bahcall | ⭐ 1× | Evan Spiegel |
 | [Marketing Lessons from the Grateful Dead](https://www.amazon.com/s?k=Marketing+Lessons+from+the+Grateful+Dead+Brian+Halligan) | Brian Halligan & David Meerman Scott | ⭐ 1× | Brian Halligan |
@@ -63,6 +65,7 @@ Sorted by number of times recommended across episodes.
 | [Never Split the Difference](https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss) | Chris Voss | ⭐ 1× | Jacob Warwick |
 | [Pachinko](https://www.amazon.com/s?k=Pachinko+Min+Jin+Lee) | Min Jin Lee | ⭐ 1× | Jessica Fain |
 | [Pattern Breakers](https://www.amazon.com/s?k=Pattern+Breakers+Mike+Maples+Jr) | Mike Maples Jr. | ⭐ 1× | Mike Maples Jr. |
+| [Product Roadmaps Relaunched](https://www.amazon.com/s?k=Product+Roadmaps+Relaunched+C.+Todd+Lombardo) | C. Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors | ⭐ 1× | Christine Itwaru |
 | [Radical Candor](https://www.amazon.com/s?k=Radical+Candor+Kim+Scott) | Kim Scott | ⭐ 1× | Jenny Wen |
 | [Rams](https://www.amazon.com/s?k=Rams+Gary+Hustwit) | Gary Hustwit | ⭐ 1× | Max Schoening |
 | [Resonate](https://www.amazon.com/s?k=Resonate+Nancy+Duarte) | Nancy Duarte | ⭐ 1× | Mike Maples Jr. |
@@ -90,6 +93,7 @@ Sorted by number of times recommended across episodes.
 | [The Paper Menagerie and Other Stories](https://www.amazon.com/s?k=The+Paper+Menagerie+and+Other+Stories+Ken+Liu) | Ken Liu | ⭐ 1× | Cat Wu |
 | [The Power Broker](https://www.amazon.com/s?k=The+Power+Broker+Robert+Caro) | Robert Caro | ⭐ 1× | Jenny Wen |
 | [The Power of Moments](https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath+Dan+Heath) | Chip Heath & Dan Heath | ⭐ 1× | Dr. Becky Kennedy |
+| [The Product-Led Organization](https://www.amazon.com/s?k=The+Product-Led+Organization+Todd+Olson) | Todd Olson | ⭐ 1× | Christine Itwaru |
 | [The Score Takes Care of Itself](https://www.amazon.com/s?k=The+Score+Takes+Care+of+Itself+Bill+Walsh) | Bill Walsh | ⭐ 1× | Lane Shackleton |
 | [The Technology Trap](https://www.amazon.com/s?k=The+Technology+Trap+Carl+Benedikt+Frey) | Carl Benedikt Frey | ⭐ 1× | Cat Wu |
 | [The Top Five Regrets of the Dying](https://www.amazon.com/s?k=The+Top+Five+Regrets+of+the+Dying+Bronnie+Ware) | Bronnie Ware | ⭐ 1× | Mike Maples Jr. |
@@ -102,6 +106,7 @@ Sorted by number of times recommended across episodes.
 | [Wool (Silo Trilogy)](https://www.amazon.com/s?k=Wool+Silo+Trilogy+Hugh+Howey) | Hugh Howey | ⭐ 1× | Gaurav Misra |
 | [Working in Public](https://www.amazon.com/s?k=Working+in+Public+Nadia+Eghbal) | Nadia Eghbal | ⭐ 1× | Simon Willison |
 | [Zero to One](https://www.amazon.com/s?k=Zero+to+One+Peter+Thiel) | Peter Thiel | ⭐ 1× | Marc Andreessen |
+
 
 ## 📁 Files
 
