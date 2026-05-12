@@ -6,10 +6,10 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 
 | Metric | Value |
 |--------|-------|
-| **Total Books** | 89 |
-| **Episodes Covered** | 36 |
+| **Total Books** | 93 |
+| **Episodes Covered** | 37 |
 | **Categories** | 47 |
-| **Last Updated** | 2026-05-06 |
+| **Last Updated** | 2026-05-12 |
 
 ## 📚 All Recommended Books
 
@@ -39,6 +39,7 @@ Sorted by number of times recommended across episodes.
 | [Charts for Babies: A Picture Book](https://www.amazon.com/s?k=Charts+for+Babies+Michelle+Rial) | Michelle Rial | ⭐ 1× | Lenny Rachitsky |
 | [Chase, Chance, and Creativity](https://www.amazon.com/s?k=Chase+Chance+and+Creativity+James+Austin) | James Austin | ⭐ 1× | Mike Maples Jr. |
 | [Conscious Business](https://www.amazon.com/s?k=Conscious+Business+Fred+Kaufman) | Fred Kaufman | ⭐ 1× | Matt MacInnis |
+| [Creative Experience](https://www.amazon.com/s?k=Creative+Experience+Mary+Parker+Follett) | Mary Parker Follett | ⭐ 1× | Eric Ries |
 | [Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) | Paul Chiusano & RÃÂºnar Bjarnason | ⭐ 1× | Boris Cherny |
 | [Getting to Yes](https://www.amazon.com/s?k=Getting+to+Yes+Roger+Fisher+William+Ury) | Roger Fisher & William Ury | ⭐ 1× | Jacob Warwick |
 | [Good Strategy/Bad Strategy](https://www.amazon.com/s?k=Good+Strategy%2FBad+Strategy+Richard+Rumelt) | Richard Rumelt | ⭐ 1× | Lane Shackleton |
@@ -50,18 +51,19 @@ Sorted by number of times recommended across episodes.
 | [Homegoing](https://www.amazon.com/s?k=Homegoing+Yaa+Gyasi) | Yaa Gyasi | ⭐ 1× | Jessica Fain |
 | [How Asia Works](https://www.amazon.com/s?k=How+Asia+Works+Joe+Studwell) | Joe Studwell | ⭐ 1× | Cat Wu |
 | [I Want My Hat Back](https://www.amazon.com/s?k=I+Want+My+Hat+Back+Jon+Klassen) | Jon Klassen | ⭐ 1× | Lenny Rachitsky |
+| [Incorruptible: Why Good Companies Go Bad and How Great Companies Stay Great](https://www.amazon.com/s?k=Incorruptible+Why+Good+Companies+Go+Bad+and+How+Great+Companies+Stay+Great+Eric+Ries) | Eric Ries | ⭐ 1× | Eric Ries |
 | [Influence](https://www.amazon.com/s?k=Influence+Robert+Cialdini) | Robert Cialdini | ⭐ 1× | Jacob Warwick |
 | [Inspired](https://www.amazon.com/s?k=Inspired+Marty+Cagan) | Marty Cagan | ⭐ 1× | Christine Itwaru |
 | [Jonathan Livingston Seagull](https://www.amazon.com/s?k=Jonathan+Livingston+Seagull+Richard+Bach) | Richard Bach | ⭐ 1× | Mike Maples Jr. |
 | [Le Ton Beau de Marot](https://www.amazon.com/s?k=Le+Ton+Beau+de+Marot+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
-| [Leaders Eat Last](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinek) | Simon Sinek | ⭐ 1× | Christine Itwaru |
+| [Leaders Eat Last](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinez) | Simon Sinek | ⭐ 1× | Christine Itwaru |
 | [Leadership and Self-Deception](https://www.amazon.com/s?k=Leadership+and+Self-Deception+The+Arbinger+Institute) | The Arbinger Institute | ⭐ 1× | Nikhyl Singhal |
 | [Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries](https://www.amazon.com/s?k=Loonshots%3A+How+to+Nurture+the+Crazy+Ideas+That+Win+Wars%2C+Cure+Diseases%2C+and+Transform+Industries+Safi+Bahcall) | Safi Bahcall | ⭐ 1× | Evan Spiegel |
 | [Marketing Lessons from the Grateful Dead](https://www.amazon.com/s?k=Marketing+Lessons+from+the+Grateful+Dead+Brian+Halligan) | Brian Halligan & David Meerman Scott | ⭐ 1× | Brian Halligan |
 | [Maybe This Will Help](https://www.amazon.com/s?k=Maybe+This+Will+Help+Michelle+Rial) | Michelle Rial | ⭐ 1× | Lenny Rachitsky |
 | [Mindset: The New Psychology of Success](https://www.amazon.com/s?k=Mindset%3A+The+New+Psychology+of+Success+Carol+S.+Dweck) | Carol S. Dweck | ⭐ 1× | Zevi Arnovitz |
-| [Modern Etiquette in Technology, Finance, Society, and Skiing](https://www.amazon.com/s?k=Modern+Etiquette+in+Technology%2C+Finance%2C+Society%2C+and+Skiing+Sam+Lessin) | Sam Lessin & Jack Raines | ⭐ 1× | Sam Lessin |
 | [Modern Etiquette in Technology, Finance, Society, and at Home](https://www.amazon.com/s?k=Modern+Etiquette+in+Technology%2C+Finance%2C+Society%2C+and+at+Home+Sam+Lessin) | Sam Lessin & Jack Raines | ⭐ 1× | Sam Lessin |
+| [Modern Etiquette in Technology, Finance, Society, and Skiing](https://www.amazon.com/s?k=Modern+Etiquette+in+Technology%2C+Finance%2C+Society%2C+and+Skiing+Sam+Lessin) | Sam Lessin & Jack Raines | ⭐ 1× | Sam Lessin |
 | [Never Split the Difference](https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss) | Chris Voss | ⭐ 1× | Jacob Warwick |
 | [Pachinko](https://www.amazon.com/s?k=Pachinko+Min+Jin+Lee) | Min Jin Lee | ⭐ 1× | Jessica Fain |
 | [Pattern Breakers](https://www.amazon.com/s?k=Pattern+Breakers+Mike+Maples+Jr) | Mike Maples Jr. | ⭐ 1× | Mike Maples Jr. |
@@ -87,12 +89,14 @@ Sorted by number of times recommended across episodes.
 | [The Innovator's Solution](https://www.amazon.com/s?k=The+Innovators+Solution+Clayton+Christensen) | Clayton Christensen | ⭐ 1× | Jeetu Patel |
 | [The Jordan Rules](https://www.amazon.com/s?k=The+Jordan+Rules+Sam+Smith) | Sam Smith | ⭐ 1× | Keith Rabois |
 | [The Joy of Living: Unlocking the Secret and Science of Happiness](https://www.amazon.com/s?k=The+Joy+of+Living+Yongey+Mingyur+Rinpoche) | Yongey Mingyur Rinpoche | ⭐ 1× | Amol Avasare |
+| [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/s?k=The+Lean+Startup+How+Todays+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses+Eric+Ries) | Eric Ries | ⭐ 1× | Eric Ries |
 | [The Myth of Sisyphus](https://www.amazon.com/s?k=The+Myth+of+Sisyphus+Albert+Camus) | Albert Camus | ⭐ 1× | Edwin Chen |
 | [The Obstacle Is the Way](https://www.amazon.com/s?k=The+Obstacle+Is+the+Way+Ryan+Holiday) | Ryan Holiday | ⭐ 1× | Lane Shackleton |
 | [The Overstory](https://www.amazon.com/s?k=The+Overstory+Richard+Powers) | Richard Powers | ⭐ 1× | Jessica Fain |
 | [The Paper Menagerie and Other Stories](https://www.amazon.com/s?k=The+Paper+Menagerie+and+Other+Stories+Ken+Liu) | Ken Liu | ⭐ 1× | Cat Wu |
 | [The Power Broker](https://www.amazon.com/s?k=The+Power+Broker+Robert+Caro) | Robert Caro | ⭐ 1× | Jenny Wen |
 | [The Power of Moments](https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath+Dan+Heath) | Chip Heath & Dan Heath | ⭐ 1× | Dr. Becky Kennedy |
+| [The Principles of Scientific Management](https://www.amazon.com/s?k=The+Principles+of+Scientific+Management+Frederick+Winslow+Taylor) | Frederick Winslow Taylor | ⭐ 1× | Eric Ries |
 | [The Product-Led Organization](https://www.amazon.com/s?k=The+Product-Led+Organization+Todd+Olson) | Todd Olson | ⭐ 1× | Christine Itwaru |
 | [The Score Takes Care of Itself](https://www.amazon.com/s?k=The+Score+Takes+Care+of+Itself+Bill+Walsh) | Bill Walsh | ⭐ 1× | Lane Shackleton |
 | [The Technology Trap](https://www.amazon.com/s?k=The+Technology+Trap+Carl+Benedikt+Frey) | Carl Benedikt Frey | ⭐ 1× | Cat Wu |
