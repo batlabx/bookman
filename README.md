@@ -9,7 +9,7 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 | **Total Books** | 93 |
 | **Episodes Covered** | 37 |
 | **Categories** | 47 |
-| **Last Updated** | 2026-05-12 |
+| **Last Updated** | 2026-05-22 |
 
 ## 📚 All Recommended Books
 
@@ -23,10 +23,12 @@ Sorted by number of times recommended across episodes.
 | [Creativity, Inc.](https://www.amazon.com/s?k=Creativity+Inc+Ed+Catmull) | Ed Catmull | ⭐⭐ 2× | Dr. Becky Kennedy |
 | [Crossing the Chasm](https://www.amazon.com/s?k=Crossing+the+Chasm+Geoffrey+Moore) | Geoffrey Moore | ⭐⭐ 2× | Jason Lemkin |
 | [Endurance](https://www.amazon.com/s?k=Endurance+Alfred+Lansing) | Alfred Lansing | ⭐⭐ 2× | Bret Taylor |
+| [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/s?k=The+Lean+Startup+How+Todays+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses+Eric+Ries) | Eric Ries | ⭐⭐ 2× | Eric Ries |
 | [Thinking in Bets](https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke) | Annie Duke | ⭐⭐ 2× | Amol Avasare |
 | [Thinking in Systems](https://www.amazon.com/s?k=Thinking+in+Systems+Donella+H.+Meadows) | Donella H. Meadows | ⭐⭐ 2× | Simon Willison |
 | [Thinking, Fast and Slow](https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman) | Daniel Kahneman | ⭐⭐ 2× | Ronny Kohavi |
 | [Working Backwards](https://www.amazon.com/s?k=Working+Backwards+Colin+Bryar) | Colin Bryar & Bill Carr | ⭐⭐ 2× | Claire Vo |
+| [Zero to One](https://www.amazon.com/s?k=Zero+to+One+Peter+Thiel) | Peter Thiel | ⭐⭐ 2× | Marc Andreessen |
 | [A History of Burning](https://www.amazon.com/s?k=A+History+of+Burning+Janika+Oza) | Janika Oza | ⭐ 1× | Jessica Fain |
 | [Accelerando](https://www.amazon.com/s?k=Accelerando+Charles+Stross) | Charles Stross | ⭐ 1× | Boris Cherny |
 | [Am I Overthinking This?](https://www.amazon.com/s?k=Am+I+Overthinking+This+Michelle+Rial) | Michelle Rial | ⭐ 1× | Lenny Rachitsky |
@@ -41,11 +43,11 @@ Sorted by number of times recommended across episodes.
 | [Conscious Business](https://www.amazon.com/s?k=Conscious+Business+Fred+Kaufman) | Fred Kaufman | ⭐ 1× | Matt MacInnis |
 | [Creative Experience](https://www.amazon.com/s?k=Creative+Experience+Mary+Parker+Follett) | Mary Parker Follett | ⭐ 1× | Eric Ries |
 | [Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) | Paul Chiusano & RÃÂºnar Bjarnason | ⭐ 1× | Boris Cherny |
+| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Getting to Yes](https://www.amazon.com/s?k=Getting+to+Yes+Roger+Fisher+William+Ury) | Roger Fisher & William Ury | ⭐ 1× | Jacob Warwick |
 | [Good Strategy/Bad Strategy](https://www.amazon.com/s?k=Good+Strategy%2FBad+Strategy+Richard+Rumelt) | Richard Rumelt | ⭐ 1× | Lane Shackleton |
 | [Good to Great](https://www.amazon.com/s?k=Good+to+Great+Jim+Collins) | Jim Collins | ⭐ 1× | Alexander Embiricos |
 | [Goose (Open Source)](https://github.com/block/goose) | Block | ⭐ 1× | Steve Kaliski |
-| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Hidden Multipliers](https://www.amazon.com/s?k=Hidden+Multipliers+Jason+Cohen) | Jason Cohen | ⭐ 1× | Jason Cohen |
 | [High Output Management](https://www.amazon.com/s?k=High+Output+Management+Andy+Grove) | Andy Grove | ⭐ 1× | Adriel Frederick |
 | [Homegoing](https://www.amazon.com/s?k=Homegoing+Yaa+Gyasi) | Yaa Gyasi | ⭐ 1× | Jessica Fain |
@@ -56,7 +58,7 @@ Sorted by number of times recommended across episodes.
 | [Inspired](https://www.amazon.com/s?k=Inspired+Marty+Cagan) | Marty Cagan | ⭐ 1× | Christine Itwaru |
 | [Jonathan Livingston Seagull](https://www.amazon.com/s?k=Jonathan+Livingston+Seagull+Richard+Bach) | Richard Bach | ⭐ 1× | Mike Maples Jr. |
 | [Le Ton Beau de Marot](https://www.amazon.com/s?k=Le+Ton+Beau+de+Marot+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
-| [Leaders Eat Last](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinez) | Simon Sinek | ⭐ 1× | Christine Itwaru |
+| [Leaders Eat Last](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinek) | Simon Sinek | ⭐ 1× | Christine Itwaru |
 | [Leadership and Self-Deception](https://www.amazon.com/s?k=Leadership+and+Self-Deception+The+Arbinger+Institute) | The Arbinger Institute | ⭐ 1× | Nikhyl Singhal |
 | [Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries](https://www.amazon.com/s?k=Loonshots%3A+How+to+Nurture+the+Crazy+Ideas+That+Win+Wars%2C+Cure+Diseases%2C+and+Transform+Industries+Safi+Bahcall) | Safi Bahcall | ⭐ 1× | Evan Spiegel |
 | [Marketing Lessons from the Grateful Dead](https://www.amazon.com/s?k=Marketing+Lessons+from+the+Grateful+Dead+Brian+Halligan) | Brian Halligan & David Meerman Scott | ⭐ 1× | Brian Halligan |
@@ -89,7 +91,6 @@ Sorted by number of times recommended across episodes.
 | [The Innovator's Solution](https://www.amazon.com/s?k=The+Innovators+Solution+Clayton+Christensen) | Clayton Christensen | ⭐ 1× | Jeetu Patel |
 | [The Jordan Rules](https://www.amazon.com/s?k=The+Jordan+Rules+Sam+Smith) | Sam Smith | ⭐ 1× | Keith Rabois |
 | [The Joy of Living: Unlocking the Secret and Science of Happiness](https://www.amazon.com/s?k=The+Joy+of+Living+Yongey+Mingyur+Rinpoche) | Yongey Mingyur Rinpoche | ⭐ 1× | Amol Avasare |
-| [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/s?k=The+Lean+Startup+How+Todays+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses+Eric+Ries) | Eric Ries | ⭐ 1× | Eric Ries |
 | [The Myth of Sisyphus](https://www.amazon.com/s?k=The+Myth+of+Sisyphus+Albert+Camus) | Albert Camus | ⭐ 1× | Edwin Chen |
 | [The Obstacle Is the Way](https://www.amazon.com/s?k=The+Obstacle+Is+the+Way+Ryan+Holiday) | Ryan Holiday | ⭐ 1× | Lane Shackleton |
 | [The Overstory](https://www.amazon.com/s?k=The+Overstory+Richard+Powers) | Richard Powers | ⭐ 1× | Jessica Fain |
@@ -109,15 +110,21 @@ Sorted by number of times recommended across episodes.
 | [Waking Up](https://www.amazon.com/s?k=Waking+Up+Sam+Harris) | Sam Harris | ⭐ 1× | Lane Shackleton |
 | [Wool (Silo Trilogy)](https://www.amazon.com/s?k=Wool+Silo+Trilogy+Hugh+Howey) | Hugh Howey | ⭐ 1× | Gaurav Misra |
 | [Working in Public](https://www.amazon.com/s?k=Working+in+Public+Nadia+Eghbal) | Nadia Eghbal | ⭐ 1× | Simon Willison |
-| [Zero to One](https://www.amazon.com/s?k=Zero+to+One+Peter+Thiel) | Peter Thiel | ⭐ 1× | Marc Andreessen |
-
 
 ## 📁 Files
 
-- [`books.json`](books.json) — Complete database with metadata, ratings, and links
-- [`books.md`](books.md) — Human-readable list grouped by episode
-- [`trends.md`](trends.md) — Category breakdown, most featured authors, timeline
+- [`books.json`](books.json) — Structured book database
+- [`books.md`](books.md) — Books grouped by episode
+- [`trends.md`](trends.md) — Analytics and trends
 
 ## 🤖 How It Works
 
-Bookman runs daily at 6:30 AM, checks for new Lenny's Podcast summaries on Substack, extracts book recommendations from the designated section, enriches them with ratings and vendor links, and commits changes to the repository.
+Bookman is an autonomous agent that:
+1. Checks [Batlab's Substack](https://batlab.substack.com/) daily for new Lenny's Podcast summaries
+2. Extracts the **📚 Recommended Books** section from each summary
+3. Deduplicates against existing entries (incrementing `times_recommended` for repeats)
+4. Enriches new books with Goodreads ratings and Amazon search links
+5. Commits updates to this repository
+
+---
+*Last run: 2026-05-22*
