@@ -1,9 +1,19 @@
 # 📚 Bookman — All Recommended Books
 
-Every book recommended on Lenny's Podcast, grouped by episode and sorted by date (most recent first).
+Books grouped by episode, sorted by date (newest first).
+
+## The AI Paradox: More Automation, More Humans, More Work — Dan Shipper on Why CLIs Are Over, Forward-Deployed Engineers Rule, and PMs Are About to Thrive
+**Guest:** Dan Shipper · **Date:** 2026-05-25 · [Source](https://batlab.substack.com/p/the-ai-paradox-more-automation-more)
+
+| # | Title | Author | Category | Amazon |
+|---|-------|--------|----------|--------|
+| 1 | The Golden Compass | Philip Pullman | Science Fiction | [Buy](https://www.amazon.com/s?k=The+Golden+Compass+Philip+Pullman) |
+| 2 | The Writing Life | Annie Dillard | Self-Help & Psychology | [Buy](https://www.amazon.com/s?k=The+Writing+Life+Annie+Dillard) |
+| 3 | The Second World War | Winston Churchill | Biography & History | [Buy](https://www.amazon.com/s?k=The+Second+World+War+Winston+Churchill) |
+| 4 | The Rigor of Angels: Borges, Heisenberg, Kant, and the Ultimate Nature of Reality | William Egginton | Self-Help & Psychology | [Buy](https://www.amazon.com/s?k=The+Rigor+of+Angels%3A+Borges%2C+Heisenberg%2C+Kant%2C+and+the+Ultimate+Nature+of+Reality+William+Egginton) |
 
 ## Incorruptible: How to Build a Company That Withstands Any Era — Eric Ries on Why 80% of Founders Get Ousted, the Two-Page Filing That Saves Companies, and Why Anthropic's Mission Is Its Moat
-**Eric Ries · 2026-05-11**
+**Guest:** Eric Ries · **Date:** 2026-05-11 · [Source](https://batlab.substack.com/p/incorruptible-how-to-build-a-company)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -13,24 +23,24 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 4 | Creative Experience | Mary Parker Follett | Leadership & Management | [Buy](https://www.amazon.com/s?k=Creative+Experience+Mary+Parker+Follett) |
 
 ## The Rise of Product Ops: Christine Itwaru on Why Pendo's Product Team Hired a Co-Pilot
-**Christine Itwaru · 2026-05-06**
+**Guest:** Christine Itwaru · **Date:** 2026-05-06 · [Source](https://batlab.substack.com/p/the-rise-of-product-ops-christine)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Inspired | Marty Cagan | Product Management | [Buy](https://www.amazon.com/s?k=Inspired+Marty+Cagan) |
-| 2 | Leaders Eat Last | Simon Sinek | Leadership & Management | [Buy](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinek) |
+| 2 | Leaders Eat Last | Simon Sinek | Leadership & Management | [Buy](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinez) |
 | 3 | The Product-Led Organization | Todd Olson | Business & Startups | [Buy](https://www.amazon.com/s?k=The+Product-Led+Organization+Todd+Olson) |
 | 4 | Product Roadmaps Relaunched | C. Todd Lombardo, Bruce McCarthy, Evan Ryan, Michael Connors | Product Management | [Buy](https://www.amazon.com/s?k=Product+Roadmaps+Relaunched+C.+Todd+Lombardo) |
 
 ## The Agency Era: Max Schoening on Why Notion's PMs Ship Code, Why the First 10% Is Now Free, and Why Skills Matter Less Than They Used To
-**Max Schoening · 2026-05-04**
+**Guest:** Max Schoening · **Date:** 2026-05-04 · [Source](https://batlab.substack.com/p/the-agency-era-max-schoening-on-why)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Rams | Gary Hustwit | Design & UX | [Buy](https://www.amazon.com/s?k=Rams+Gary+Hustwit) |
 
 ## Cathedrals, Not Bricks: How Coda's CPO Builds Product Teams That Compound
-**Lane Shackleton · 2026-04-29**
+**Guest:** Lane Shackleton · **Date:** 2026-04-29 · [Source](https://batlab.substack.com/p/cathedrals-not-bricks-how-codas-cpo)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -43,7 +53,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 7 | The Inner Game of Tennis | W. Timothy Gallwey | Self-Help & Sports | [Buy](https://www.amazon.com/s?k=The+Inner+Game+of+Tennis+W.+Timothy+Gallwey) |
 
 ## Distribution Is the New Moat: Evan Spiegel on Why Software Alone Can't Win Anymore
-**Evan Spiegel · 2026-04-27**
+**Guest:** Evan Spiegel · **Date:** 2026-04-27 · [Source](https://batlab.substack.com/p/distribution-is-the-new-moat-evan)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -52,7 +62,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 3 | The End of the World Is Just the Beginning: Mapping the Collapse of Globalization | Peter Zeihan | Economics & Geopolitics | [Buy](https://www.amazon.com/s?k=The+End+of+the+World+Is+Just+the+Beginning%3A+Mapping+the+Collapse+of+Globalization+Peter+Zeihan) |
 
 ## What Claude Design Is Actually Good For (And Why Figma Isn't Dead Yet)
-**Claire Vo · 2026-04-25**
+**Guest:** Claire Vo · **Date:** 2026-04-25 · [Source](https://batlab.substack.com/p/what-claude-design-is-actually-good)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -60,7 +70,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | The Design of Everyday Things | Don Norman | Design & UX | [Buy](https://www.amazon.com/s?k=The+Design+of+Everyday+Things+Don+Norman) |
 
 ## The Man Who Ran 20,000 Experiments: Ronny Kohavi on Why Your Intuition Is Wrong
-**Ronny Kohavi · 2026-04-25**
+**Guest:** Ronny Kohavi · **Date:** 2026-04-25 · [Source](https://batlab.substack.com/p/the-man-who-ran-20000-experiments)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -68,21 +78,21 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | Thinking, Fast and Slow | Daniel Kahneman | Psychology & Decision Making | [Buy](https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman) |
 
 ## Ship Every Week or Die: Gaurav Misra on Captions, AI Video's Tipping Point, and the Secret Roadmap
-**Gaurav Misra · 2026-04-25**
+**Guest:** Gaurav Misra · **Date:** 2026-04-25 · [Source](https://batlab.substack.com/p/ship-every-week-or-die-gaurav-misra)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Wool (Silo Trilogy) | Hugh Howey | Science Fiction | [Buy](https://www.amazon.com/s?k=Wool+Silo+Trilogy+Hugh+Howey) |
 
 ## Humans in the Loop: Adriel Frederick on Growth, Algorithms, and the PM's True Job
-**Adriel Frederick · 2026-04-25**
+**Guest:** Adriel Frederick · **Date:** 2026-04-25 · [Source](https://batlab.substack.com/p/humans-in-the-loop-adriel-frederick)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | High Output Management | Andy Grove | Leadership & Management | [Buy](https://www.amazon.com/s?k=High+Output+Management+Andy+Grove) |
 
 ## How Anthropic Ships Faster Than Anyone: Cat Wu on Building Claude Code
-**Cat Wu · 2026-04-24**
+**Guest:** Cat Wu · **Date:** 2026-04-24 · [Source](https://batlab.substack.com/p/how-anthropic-ships-faster-than-anyone)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -91,14 +101,14 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 3 | The Paper Menagerie and Other Stories | Ken Liu | Science Fiction | [Buy](https://www.amazon.com/s?k=The+Paper+Menagerie+and+Other+Stories+Ken+Liu) |
 
 ## The Career Coach to Tech's Best: Nikhyl Singhal on Ex-Growth Traps, Promotion Myths, and the Shadows of Superpowers
-**Nikhyl Singhal · 2026-04-20**
+**Guest:** Nikhyl Singhal · **Date:** 2026-04-20 · [Source](https://coverdrive.substack.com/p/the-career-coach-to-techs-best-nikhyl)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Leadership and Self-Deception | The Arbinger Institute | Leadership & Management | [Buy](https://www.amazon.com/s?k=Leadership+and+Self-Deception+The+Arbinger+Institute) |
 
 ## The Builder's Mindset: How Bret Taylor Invented Google Maps, the Like Button, and the Future of AI Agents
-**Bret Taylor · 2026-04-18**
+**Guest:** Bret Taylor · **Date:** 2026-04-18 · [Source](https://coverdrive.substack.com/p/the-builders-mindset-how-bret-taylor)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -106,7 +116,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | Endurance | Alfred Lansing | Biography & History | [Buy](https://www.amazon.com/s?k=Endurance+Alfred+Lansing) |
 
 ## The Team You Build Is the Company You Build: Keith Rabois on Hiring, AI, and the Death of the PM
-**Keith Rabois · 2026-04-13**
+**Guest:** Keith Rabois · **Date:** 2026-04-13 · [Source](https://coverdrive.substack.com/p/the-team-you-build-is-the-company)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -114,14 +124,14 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | The Upside of Stress | Kelly McGonigal | Self-Help & Psychology | [Buy](https://www.amazon.com/s?k=The+Upside+of+Stress+Kelly+McGonigal) |
 
 ## The Man Building Your AI Teammate: Inside OpenAI's Codex
-**Alexander Embiricos · 2026-04-10**
+**Guest:** Alexander Embiricos · **Date:** 2026-04-10 · [Source](https://coverdrive.substack.com/p/the-man-building-your-ai-teammate)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Good to Great | Jim Collins | Business & Leadership | [Buy](https://www.amazon.com/s?k=Good+to+Great+Jim+Collins) |
 
 ## The Quiet $1 Billion: How One 100-Person Lab Is Teaching AI What Matters
-**Edwin Chen · 2026-04-09**
+**Guest:** Edwin Chen · **Date:** 2026-04-09 · [Source](https://coverdrive.substack.com/p/the-quiet-1-billion-how-one-100-person)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -131,7 +141,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 4 | GÃÂ¶del, Escher, Bach | Douglas Hofstadter | Science & Philosophy | [Buy](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) |
 
 ## The Uncomfortable Truth About Great Leadership: Matt MacInnis's 10 Contrarian Principles
-**Matt MacInnis · 2026-04-08**
+**Guest:** Matt MacInnis · **Date:** 2026-04-08 · [Source](https://coverdrive.substack.com/p/the-uncomfortable-truth-about-great)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -139,7 +149,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | The Effective Executive | Peter Drucker | Leadership & Management | [Buy](https://www.amazon.com/s?k=The+Effective+Executive+Peter+Drucker) |
 
 ## The High-Growth Handbook: Molly Graham's Battle-Tested Frameworks for Leaders in the Chaos Zone
-**Molly Graham · 2026-04-07**
+**Guest:** Molly Graham · **Date:** 2026-04-07 · [Source](https://coverdrive.substack.com/p/the-high-growth-handbook-molly-grahams)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -147,7 +157,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | Atomic Habits | James Clear | Self-Help & Psychology | [Buy](https://www.amazon.com/s?k=Atomic+Habits+James+Clear) |
 
 ## From Cold Email to $19B: How Anthropic's Head of Growth Rewrote the Rules of Scaling AI
-**Amol Avasare · 2026-04-06**
+**Guest:** Amol Avasare · **Date:** 2026-04-06 · [Source](https://coverdrive.substack.com/p/from-cold-email-to-19b-how-anthropics)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -156,21 +166,21 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 3 | Awareness: Conversations with the Masters | Anthony de Mello | Self-Help & Spirituality | [Buy](https://www.amazon.com/s?k=Awareness+Conversations+with+the+Masters+Anthony+de+Mello) |
 
 ## We Replaced Our Sales Team with 20 AI Agents Ã¢ÂÂ And Here's What Actually Happened
-**Jason Lemkin · 2026-04-05**
+**Guest:** Jason Lemkin · **Date:** 2026-04-05 · [Source](https://coverdrive.substack.com/p/we-replaced-our-sales-team-with-20)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Crossing the Chasm | Geoffrey Moore | Business & Marketing | [Buy](https://www.amazon.com/s?k=Crossing+the+Chasm+Geoffrey+Moore) |
 
 ## When Growth Stops: Jason Cohen's 5-Question Diagnostic Every Founder Needs
-**Jason Cohen · 2026-04-04**
+**Guest:** Jason Cohen · **Date:** 2026-04-04 · [Source](https://coverdrive.substack.com/p/when-growth-stops-jason-cohens-5)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Hidden Multipliers | Jason Cohen | Business & Strategy | [Buy](https://www.amazon.com/s?k=Hidden+Multipliers+Jason+Cohen) |
 
 ## When AI Crossed the Rubicon: Simon Willison on the Inflection Point That Changed Software Engineering Forever
-**Simon Willison · 2026-04-04**
+**Guest:** Simon Willison · **Date:** 2026-04-04 · [Source](https://coverdrive.substack.com/p/when-ai-crossed-the-rubicon-simon)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -179,14 +189,14 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 3 | Thinking in Systems | Donella H. Meadows | Science & Systems Thinking | [Buy](https://www.amazon.com/s?k=Thinking+in+Systems+Donella+H.+Meadows) |
 
 ## The Real AI Boom Hasn't Even Started Yet Ã¢ÂÂ Marc Andreessen's Vision for What Comes Next
-**Marc Andreessen · 2026-04-04**
+**Guest:** Marc Andreessen · **Date:** 2026-04-04 · [Source](https://coverdrive.substack.com/p/the-real-ai-boom-hasnt-even-started)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Zero to One | Peter Thiel | Business & Startups | [Buy](https://www.amazon.com/s?k=Zero+to+One+Peter+Thiel) |
 
 ## The Non-Technical PM's Guide to Building in the AI Era
-**Zevi Arnovitz · 2026-04-04**
+**Guest:** Zevi Arnovitz · **Date:** 2026-04-04 · [Source](https://coverdrive.substack.com/p/the-non-technical-pms-guide-to-building)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -195,7 +205,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 3 | Mindset: The New Psychology of Success | Carol S. Dweck | Self-Help & Psychology | [Buy](https://www.amazon.com/s?k=Mindset%3A+The+New+Psychology+of+Success+Carol+S.+Dweck) |
 
 ## The Founder's Secret Weapon: Why Silicon Valley Needs an Etiquette Upgrade
-**Sam Lessin · 2026-04-04**
+**Guest:** Sam Lessin · **Date:** 2026-04-04 · [Source](https://coverdrive.substack.com/p/the-founders-secret-weapon-why-silicon)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -203,21 +213,21 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | Modern Etiquette in Technology, Finance, Society, and Skiing | Sam Lessin & Jack Raines | Leadership & Management | [Buy](https://www.amazon.com/s?k=Modern+Etiquette+in+Technology%2C+Finance%2C+Society%2C+and+Skiing+Sam+Lessin) |
 
 ## From Calendar Catastrophe to Nine AI Agents: Claire Vo's OpenClaw Awakening
-**Claire Vo · 2026-04-04**
+**Guest:** Claire Vo · **Date:** 2026-04-04 · [Source](https://coverdrive.substack.com/p/from-calendar-catastrophe-to-nine)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Working Backwards | Colin Bryar & Bill Carr | Business & Management | [Buy](https://www.amazon.com/s?k=Working+Backwards+Colin+Bryar) |
 
 ## How Stripe Built an Army of AI Coders That Ship 1,300 Pull Requests a Week
-**Steve Kaliski · 2026-03-26**
+**Guest:** Steve Kaliski · **Date:** 2026-03-26 · [Source](https://coverdrive.substack.com/p/how-stripe-built-an-army-of-ai-coders)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Goose (Open Source) | Block | Technology & Programming | [Buy](https://github.com/block/goose) |
 
 ## The Art of Influence: Why Your Best Ideas Keep Getting Killed (And How to Fix It)
-**Jessica Fain · 2026-03-23**
+**Guest:** Jessica Fain · **Date:** 2026-03-23 · [Source](https://coverdrive.substack.com/p/the-art-of-influence-why-your-best)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -227,7 +237,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 4 | The Overstory | Richard Powers | Literary Fiction | [Buy](https://www.amazon.com/s?k=The+Overstory+Richard+Powers) |
 
 ## Your Coworkers Aren't Difficult Ã¢ÂÂ They're Under-Skilled: Dr. Becky Kennedy's Radical Framework for Leading Humans
-**Dr. Becky Kennedy · 2026-03-21**
+**Guest:** Dr. Becky Kennedy · **Date:** 2026-03-21 · [Source](https://coverdrive.substack.com/p/your-coworkers-arent-difficult-theyre)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -235,7 +245,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | Creativity, Inc. | Ed Catmull | Business & Creativity | [Buy](https://www.amazon.com/s?k=Creativity+Inc+Ed+Catmull) |
 
 ## The Cisco President Who Started at $4/Hour Ã¢ÂÂ and Why He Says AI Is Humanity's Lifeline
-**Jeetu Patel · 2026-03-20**
+**Guest:** Jeetu Patel · **Date:** 2026-03-20 · [Source](https://coverdrive.substack.com/p/the-cisco-president-who-started-at)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -245,7 +255,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 4 | Be Useful: Seven Tools for Life | Arnold Schwarzenegger | Self-Help & Motivation | [Buy](https://www.amazon.com/s?k=Be+Useful+Seven+Tools+for+Life+Arnold+Schwarzenegger) |
 
 ## The Design Process Is Dead Ã¢ÂÂ And That's a Good Thing
-**Jenny Wen · 2026-03-19**
+**Guest:** Jenny Wen · **Date:** 2026-03-19 · [Source](https://coverdrive.substack.com/p/the-design-process-is-dead-and-thats)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -253,7 +263,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | The Power Broker | Robert Caro | Biography & History | [Buy](https://www.amazon.com/s?k=The+Power+Broker+Robert+Caro) |
 
 ## Engineers Are Becoming Sorcerers: Sherwin Wu on the Future of Software Development
-**Sherwin Wu · 2026-03-18**
+**Guest:** Sherwin Wu · **Date:** 2026-03-18 · [Source](https://coverdrive.substack.com/p/engineers-are-becoming-sorcerers)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -263,7 +273,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 4 | Structure and Interpretation of Computer Programs | Harold Abelson & Gerald Jay Sussman | Technology & Programming | [Buy](https://www.amazon.com/s?k=Structure+and+Interpretation+of+Computer+Programs+SICP) |
 
 ## The Man Behind the Mic: Lenny Rachitsky on Building a Million-Subscriber Empire From Scratch
-**Lenny Rachitsky · 2026-03-17**
+**Guest:** Lenny Rachitsky · **Date:** 2026-03-17 · [Source](https://coverdrive.substack.com/p/the-man-behind-the-mic-lenny-rachitsky)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -273,7 +283,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 4 | I Want My Hat Back | Jon Klassen | Children's Literature | [Buy](https://www.amazon.com/s?k=I+Want+My+Hat+Back+Jon+Klassen) |
 
 ## The Tactical Playbook for Getting 20-40% More Comp (Without Sounding Greedy)
-**Jacob Warwick · 2026-03-16**
+**Guest:** Jacob Warwick · **Date:** 2026-03-16 · [Source](https://coverdrive.substack.com/p/the-tactical-playbook-for-getting)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -282,7 +292,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 3 | Influence | Robert Cialdini | Psychology & Persuasion | [Buy](https://www.amazon.com/s?k=Influence+Robert+Cialdini) |
 
 ## The $15 Billion Company Nobody Saw Coming
-**Qasar Younis · 2026-03-15**
+**Guest:** Qasar Younis · **Date:** 2026-03-15 · [Source](https://coverdrive.substack.com/p/the-15-billion-company-nobody-saw)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -290,14 +300,14 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 2 | Roman Histories | Plutarch, Livy, Gibbon | History | [Buy](https://www.amazon.com/s?k=Roman+Histories+Plutarch+Livy+Gibbon) |
 
 ## The CEO Equation: Brian Halligan on the Hardest Parts of Building and Scaling a Company
-**Brian Halligan · 2026-03-12**
+**Guest:** Brian Halligan · **Date:** 2026-03-12 · [Source](https://coverdrive.substack.com/p/the-ceo-equation-brian-halligan-on)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
 | 1 | Marketing Lessons from the Grateful Dead | Brian Halligan & David Meerman Scott | Marketing & Business | [Buy](https://www.amazon.com/s?k=Marketing+Lessons+from+the+Grateful+Dead+Brian+Halligan) |
 
 ## The Man Who Coded Away the Job of Coding: Boris Cherny on Claude Code, the Printing Press Moment, and Why 'Builder' Will Replace 'Engineer'
-**Boris Cherny · 2026-03-11**
+**Guest:** Boris Cherny · **Date:** 2026-03-11 · [Source](https://coverdrive.substack.com/p/the-man-who-coded-away-the-job-of)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -306,7 +316,7 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 3 | The Wandering Earth | Liu Cixin | Science Fiction | [Buy](https://www.amazon.com/s?k=The+Wandering+Earth+Liu+Cixin) |
 
 ## How Pattern Breakers Win: Mike Maples Jr.'s Framework for Startup Ideas That Change the Future
-**Mike Maples Jr. · 2026-03-10**
+**Guest:** Mike Maples Jr. · **Date:** 2026-03-10 · [Source](https://coverdrive.substack.com/p/how-pattern-breakers-win-mike-maples)
 
 | # | Title | Author | Category | Amazon |
 |---|-------|--------|----------|--------|
@@ -317,3 +327,5 @@ Every book recommended on Lenny's Podcast, grouped by episode and sorted by date
 | 5 | Seven Powers | Hamilton Helmer | Business & Strategy | [Buy](https://www.amazon.com/s?k=Seven+Powers+Hamilton+Helmer) |
 | 6 | Jonathan Livingston Seagull | Richard Bach | Fiction & Philosophy | [Buy](https://www.amazon.com/s?k=Jonathan+Livingston+Seagull+Richard+Bach) |
 
+---
+*Last updated: 2026-05-26*
