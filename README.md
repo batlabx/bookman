@@ -6,10 +6,10 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 
 | Metric | Value |
 |--------|-------|
-| **Total Books** | 93 |
-| **Episodes Covered** | 37 |
+| **Total Books** | 97 |
+| **Episodes Covered** | 38 |
 | **Categories** | 47 |
-| **Last Updated** | 2026-05-22 |
+| **Last Updated** | 2026-05-26 |
 
 ## 📚 All Recommended Books
 
@@ -19,16 +19,17 @@ Sorted by number of times recommended across episodes.
 |-------|--------|:-----------------:|----------------------|
 | [The Pragmatic Programmer](https://www.amazon.com/s?k=The+Pragmatic+Programmer+David+Thomas) | David Thomas & Andrew Hunt | ⭐⭐⭐⭐⭐ 5× | Simon Willison |
 | [The Hard Thing About Hard Things](https://www.amazon.com/s?k=The+Hard+Thing+About+Hard+Things+Ben+Horowitz) | Ben Horowitz | ⭐⭐⭐ 3× | Jeetu Patel |
+| [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/s?k=The+Lean+Startup+How+Todays+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses+Eric+Ries) | Eric Ries | ⭐⭐⭐ 3× | Eric Ries |
+| [Zero to One](https://www.amazon.com/s?k=Zero+to+One+Peter+Thiel) | Peter Thiel | ⭐⭐⭐ 3× | Marc Andreessen |
 | [Competing Against Luck](https://www.amazon.com/s?k=Competing+Against+Luck+Clayton+Christensen) | Clayton Christensen | ⭐⭐ 2× | Bret Taylor |
 | [Creativity, Inc.](https://www.amazon.com/s?k=Creativity+Inc+Ed+Catmull) | Ed Catmull | ⭐⭐ 2× | Dr. Becky Kennedy |
 | [Crossing the Chasm](https://www.amazon.com/s?k=Crossing+the+Chasm+Geoffrey+Moore) | Geoffrey Moore | ⭐⭐ 2× | Jason Lemkin |
 | [Endurance](https://www.amazon.com/s?k=Endurance+Alfred+Lansing) | Alfred Lansing | ⭐⭐ 2× | Bret Taylor |
-| [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/s?k=The+Lean+Startup+How+Todays+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses+Eric+Ries) | Eric Ries | ⭐⭐ 2× | Eric Ries |
+| [The Power Broker](https://www.amazon.com/s?k=The+Power+Broker+Robert+Caro) | Robert Caro | ⭐⭐ 2× | Jenny Wen |
 | [Thinking in Bets](https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke) | Annie Duke | ⭐⭐ 2× | Amol Avasare |
 | [Thinking in Systems](https://www.amazon.com/s?k=Thinking+in+Systems+Donella+H.+Meadows) | Donella H. Meadows | ⭐⭐ 2× | Simon Willison |
 | [Thinking, Fast and Slow](https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman) | Daniel Kahneman | ⭐⭐ 2× | Ronny Kohavi |
 | [Working Backwards](https://www.amazon.com/s?k=Working+Backwards+Colin+Bryar) | Colin Bryar & Bill Carr | ⭐⭐ 2× | Claire Vo |
-| [Zero to One](https://www.amazon.com/s?k=Zero+to+One+Peter+Thiel) | Peter Thiel | ⭐⭐ 2× | Marc Andreessen |
 | [A History of Burning](https://www.amazon.com/s?k=A+History+of+Burning+Janika+Oza) | Janika Oza | ⭐ 1× | Jessica Fain |
 | [Accelerando](https://www.amazon.com/s?k=Accelerando+Charles+Stross) | Charles Stross | ⭐ 1× | Boris Cherny |
 | [Am I Overthinking This?](https://www.amazon.com/s?k=Am+I+Overthinking+This+Michelle+Rial) | Michelle Rial | ⭐ 1× | Lenny Rachitsky |
@@ -43,11 +44,11 @@ Sorted by number of times recommended across episodes.
 | [Conscious Business](https://www.amazon.com/s?k=Conscious+Business+Fred+Kaufman) | Fred Kaufman | ⭐ 1× | Matt MacInnis |
 | [Creative Experience](https://www.amazon.com/s?k=Creative+Experience+Mary+Parker+Follett) | Mary Parker Follett | ⭐ 1× | Eric Ries |
 | [Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) | Paul Chiusano & RÃÂºnar Bjarnason | ⭐ 1× | Boris Cherny |
-| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Getting to Yes](https://www.amazon.com/s?k=Getting+to+Yes+Roger+Fisher+William+Ury) | Roger Fisher & William Ury | ⭐ 1× | Jacob Warwick |
 | [Good Strategy/Bad Strategy](https://www.amazon.com/s?k=Good+Strategy%2FBad+Strategy+Richard+Rumelt) | Richard Rumelt | ⭐ 1× | Lane Shackleton |
 | [Good to Great](https://www.amazon.com/s?k=Good+to+Great+Jim+Collins) | Jim Collins | ⭐ 1× | Alexander Embiricos |
 | [Goose (Open Source)](https://github.com/block/goose) | Block | ⭐ 1× | Steve Kaliski |
+| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Hidden Multipliers](https://www.amazon.com/s?k=Hidden+Multipliers+Jason+Cohen) | Jason Cohen | ⭐ 1× | Jason Cohen |
 | [High Output Management](https://www.amazon.com/s?k=High+Output+Management+Andy+Grove) | Andy Grove | ⭐ 1× | Adriel Frederick |
 | [Homegoing](https://www.amazon.com/s?k=Homegoing+Yaa+Gyasi) | Yaa Gyasi | ⭐ 1× | Jessica Fain |
@@ -58,7 +59,7 @@ Sorted by number of times recommended across episodes.
 | [Inspired](https://www.amazon.com/s?k=Inspired+Marty+Cagan) | Marty Cagan | ⭐ 1× | Christine Itwaru |
 | [Jonathan Livingston Seagull](https://www.amazon.com/s?k=Jonathan+Livingston+Seagull+Richard+Bach) | Richard Bach | ⭐ 1× | Mike Maples Jr. |
 | [Le Ton Beau de Marot](https://www.amazon.com/s?k=Le+Ton+Beau+de+Marot+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
-| [Leaders Eat Last](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinek) | Simon Sinek | ⭐ 1× | Christine Itwaru |
+| [Leaders Eat Last](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinez) | Simon Sinek | ⭐ 1× | Christine Itwaru |
 | [Leadership and Self-Deception](https://www.amazon.com/s?k=Leadership+and+Self-Deception+The+Arbinger+Institute) | The Arbinger Institute | ⭐ 1× | Nikhyl Singhal |
 | [Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries](https://www.amazon.com/s?k=Loonshots%3A+How+to+Nurture+the+Crazy+Ideas+That+Win+Wars%2C+Cure+Diseases%2C+and+Transform+Industries+Safi+Bahcall) | Safi Bahcall | ⭐ 1× | Evan Spiegel |
 | [Marketing Lessons from the Grateful Dead](https://www.amazon.com/s?k=Marketing+Lessons+from+the+Grateful+Dead+Brian+Halligan) | Brian Halligan & David Meerman Scott | ⭐ 1× | Brian Halligan |
@@ -85,6 +86,7 @@ Sorted by number of times recommended across episodes.
 | [The Effective Executive](https://www.amazon.com/s?k=The+Effective+Executive+Peter+Drucker) | Peter Drucker | ⭐ 1× | Matt MacInnis |
 | [The End of the World Is Just the Beginning: Mapping the Collapse of Globalization](https://www.amazon.com/s?k=The+End+of+the+World+Is+Just+the+Beginning%3A+Mapping+the+Collapse+of+Globalization+Peter+Zeihan) | Peter Zeihan | ⭐ 1× | Evan Spiegel |
 | [The Fountainhead](https://www.amazon.com/s?k=The+Fountainhead+Ayn+Rand) | Ayn Rand | ⭐ 1× | Zevi Arnovitz |
+| [The Golden Compass](https://www.amazon.com/s?k=The+Golden+Compass+Philip+Pullman) | Philip Pullman | ⭐ 1× | Dan Shipper |
 | [The History of Standard Oil](https://www.amazon.com/s?k=The+History+of+Standard+Oil+Ida+Tarbell) | Ida Tarbell | ⭐ 1× | Qasar Younis |
 | [The Inner Game of Tennis](https://www.amazon.com/s?k=The+Inner+Game+of+Tennis+W.+Timothy+Gallwey) | W. Timothy Gallwey | ⭐ 1× | Lane Shackleton |
 | [The Innovator's Dilemma](https://www.amazon.com/s?k=The+Innovators+Dilemma+Clayton+Christensen) | Clayton Christensen | ⭐ 1× | Jeetu Patel |
@@ -95,15 +97,17 @@ Sorted by number of times recommended across episodes.
 | [The Obstacle Is the Way](https://www.amazon.com/s?k=The+Obstacle+Is+the+Way+Ryan+Holiday) | Ryan Holiday | ⭐ 1× | Lane Shackleton |
 | [The Overstory](https://www.amazon.com/s?k=The+Overstory+Richard+Powers) | Richard Powers | ⭐ 1× | Jessica Fain |
 | [The Paper Menagerie and Other Stories](https://www.amazon.com/s?k=The+Paper+Menagerie+and+Other+Stories+Ken+Liu) | Ken Liu | ⭐ 1× | Cat Wu |
-| [The Power Broker](https://www.amazon.com/s?k=The+Power+Broker+Robert+Caro) | Robert Caro | ⭐ 1× | Jenny Wen |
 | [The Power of Moments](https://www.amazon.com/s?k=The+Power+of+Moments+Chip+Heath+Dan+Heath) | Chip Heath & Dan Heath | ⭐ 1× | Dr. Becky Kennedy |
 | [The Principles of Scientific Management](https://www.amazon.com/s?k=The+Principles+of+Scientific+Management+Frederick+Winslow+Taylor) | Frederick Winslow Taylor | ⭐ 1× | Eric Ries |
 | [The Product-Led Organization](https://www.amazon.com/s?k=The+Product-Led+Organization+Todd+Olson) | Todd Olson | ⭐ 1× | Christine Itwaru |
+| [The Rigor of Angels: Borges, Heisenberg, Kant, and the Ultimate Nature of Reality](https://www.amazon.com/s?k=The+Rigor+of+Angels%3A+Borges%2C+Heisenberg%2C+Kant%2C+and+the+Ultimate+Nature+of+Reality+William+Egginton) | William Egginton | ⭐ 1× | Dan Shipper |
 | [The Score Takes Care of Itself](https://www.amazon.com/s?k=The+Score+Takes+Care+of+Itself+Bill+Walsh) | Bill Walsh | ⭐ 1× | Lane Shackleton |
+| [The Second World War](https://www.amazon.com/s?k=The+Second+World+War+Winston+Churchill) | Winston Churchill | ⭐ 1× | Dan Shipper |
 | [The Technology Trap](https://www.amazon.com/s?k=The+Technology+Trap+Carl+Benedikt+Frey) | Carl Benedikt Frey | ⭐ 1× | Cat Wu |
 | [The Top Five Regrets of the Dying](https://www.amazon.com/s?k=The+Top+Five+Regrets+of+the+Dying+Bronnie+Ware) | Bronnie Ware | ⭐ 1× | Mike Maples Jr. |
 | [The Upside of Stress](https://www.amazon.com/s?k=The+Upside+of+Stress+Kelly+McGonigal) | Kelly McGonigal | ⭐ 1× | Keith Rabois |
 | [The Wandering Earth](https://www.amazon.com/s?k=The+Wandering+Earth+Liu+Cixin) | Liu Cixin | ⭐ 1× | Boris Cherny |
+| [The Writing Life](https://www.amazon.com/s?k=The+Writing+Life+Annie+Dillard) | Annie Dillard | ⭐ 1× | Dan Shipper |
 | [There Is No Antimemetics Division](https://www.amazon.com/s?k=There+Is+No+Antimemetics+Division+qntm) | qntm | ⭐ 1× | Sherwin Wu |
 | [Trustworthy Online Controlled Experiments](https://www.amazon.com/s?k=Trustworthy+Online+Controlled+Experiments+Ron+Kohavi) | Ron Kohavi, Diane Tang & Ya Xu | ⭐ 1× | Ronny Kohavi |
 | [Turning the Flywheel](https://www.amazon.com/s?k=Turning+the+Flywheel+Jim+Collins) | Jim Collins | ⭐ 1× | Lane Shackleton |
@@ -127,4 +131,4 @@ Bookman is an autonomous agent that:
 5. Commits updates to this repository
 
 ---
-*Last run: 2026-05-22*
+*Last run: 2026-05-26*
