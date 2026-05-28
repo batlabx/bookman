@@ -9,7 +9,7 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 | **Total Books** | 97 |
 | **Episodes Covered** | 38 |
 | **Categories** | 47 |
-| **Last Updated** | 2026-05-26 |
+| **Last Updated** | 2026-05-28 |
 
 ## 📚 All Recommended Books
 
@@ -44,11 +44,11 @@ Sorted by number of times recommended across episodes.
 | [Conscious Business](https://www.amazon.com/s?k=Conscious+Business+Fred+Kaufman) | Fred Kaufman | ⭐ 1× | Matt MacInnis |
 | [Creative Experience](https://www.amazon.com/s?k=Creative+Experience+Mary+Parker+Follett) | Mary Parker Follett | ⭐ 1× | Eric Ries |
 | [Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano) | Paul Chiusano & RÃÂºnar Bjarnason | ⭐ 1× | Boris Cherny |
+| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Getting to Yes](https://www.amazon.com/s?k=Getting+to+Yes+Roger+Fisher+William+Ury) | Roger Fisher & William Ury | ⭐ 1× | Jacob Warwick |
 | [Good Strategy/Bad Strategy](https://www.amazon.com/s?k=Good+Strategy%2FBad+Strategy+Richard+Rumelt) | Richard Rumelt | ⭐ 1× | Lane Shackleton |
 | [Good to Great](https://www.amazon.com/s?k=Good+to+Great+Jim+Collins) | Jim Collins | ⭐ 1× | Alexander Embiricos |
 | [Goose (Open Source)](https://github.com/block/goose) | Block | ⭐ 1× | Steve Kaliski |
-| [GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
 | [Hidden Multipliers](https://www.amazon.com/s?k=Hidden+Multipliers+Jason+Cohen) | Jason Cohen | ⭐ 1× | Jason Cohen |
 | [High Output Management](https://www.amazon.com/s?k=High+Output+Management+Andy+Grove) | Andy Grove | ⭐ 1× | Adriel Frederick |
 | [Homegoing](https://www.amazon.com/s?k=Homegoing+Yaa+Gyasi) | Yaa Gyasi | ⭐ 1× | Jessica Fain |
@@ -59,7 +59,7 @@ Sorted by number of times recommended across episodes.
 | [Inspired](https://www.amazon.com/s?k=Inspired+Marty+Cagan) | Marty Cagan | ⭐ 1× | Christine Itwaru |
 | [Jonathan Livingston Seagull](https://www.amazon.com/s?k=Jonathan+Livingston+Seagull+Richard+Bach) | Richard Bach | ⭐ 1× | Mike Maples Jr. |
 | [Le Ton Beau de Marot](https://www.amazon.com/s?k=Le+Ton+Beau+de+Marot+Douglas+Hofstadter) | Douglas Hofstadter | ⭐ 1× | Edwin Chen |
-| [Leaders Eat Last](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinez) | Simon Sinek | ⭐ 1× | Christine Itwaru |
+| [Leaders Eat Last](https://www.amazon.com/s?k=Leaders+Eat+Last+Simon+Sinek) | Simon Sinek | ⭐ 1× | Christine Itwaru |
 | [Leadership and Self-Deception](https://www.amazon.com/s?k=Leadership+and+Self-Deception+The+Arbinger+Institute) | The Arbinger Institute | ⭐ 1× | Nikhyl Singhal |
 | [Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries](https://www.amazon.com/s?k=Loonshots%3A+How+to+Nurture+the+Crazy+Ideas+That+Win+Wars%2C+Cure+Diseases%2C+and+Transform+Industries+Safi+Bahcall) | Safi Bahcall | ⭐ 1× | Evan Spiegel |
 | [Marketing Lessons from the Grateful Dead](https://www.amazon.com/s?k=Marketing+Lessons+from+the+Grateful+Dead+Brian+Halligan) | Brian Halligan & David Meerman Scott | ⭐ 1× | Brian Halligan |
@@ -131,4 +131,4 @@ Bookman is an autonomous agent that:
 5. Commits updates to this repository
 
 ---
-*Last run: 2026-05-26*
+*Last run: 2026-05-28*
