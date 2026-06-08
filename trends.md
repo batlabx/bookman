@@ -1,21 +1,31 @@
-# Bookman Trends
+# Lenny's Podcast Book Trends
 
-Analytics and trends from the Lenny's Podcast book database.
+📊 Analytics and trends from 101 books across 40 episodes
+🗓️ Last updated: 2026-06-08
 
-> ð Last updated: 2026-05-29  
-> ð Total books: **100**  
-> ðï¸ Episodes covered: **39**
+## 🏆 Most Recommended Books
 
----
+| Title | Author | Times Recommended | First Guest |
+|-------|--------|:-----------------:|-------------|
+| [The Pragmatic Programmer](https://www.amazon.com/s?k=The+Pragmatic+Programmer+David+Thomas) | David Thomas & Andrew Hunt | ⭐⭐⭐⭐⭐ 5× | Simon Willison |
+| [The Hard Thing About Hard Things](https://www.amazon.com/s?k=The+Hard+Thing+About+Hard+Things+Ben+Horowitz) | Ben Horowitz | ⭐⭐⭐ 3× | Jeetu Patel |
+| [Working Backwards](https://www.amazon.com/s?k=Working+Backwards+Colin+Bryar) | Colin Bryar & Bill Carr | ⭐⭐⭐ 3× | Claire Vo |
+| [Zero to One](https://www.amazon.com/s?k=Zero+to+One+Peter+Thiel) | Peter Thiel | ⭐⭐⭐ 3× | Marc Andreessen |
+| [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/s?k=The+Lean+Startup+How+Todays+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses+Eric+Ries) | Eric Ries | ⭐⭐⭐ 3× | Eric Ries |
+| [The Power Broker](https://www.amazon.com/s?k=The+Power+Broker+Robert+Caro) | Robert Caro | ⭐⭐ 2× | Jenny Wen |
+| [Creativity, Inc.](https://www.amazon.com/s?k=Creativity+Inc+Ed+Catmull) | Ed Catmull | ⭐⭐ 2× | Dr. Becky Kennedy |
+| [Crossing the Chasm](https://www.amazon.com/s?k=Crossing+the+Chasm+Geoffrey+Moore) | Geoffrey Moore | ⭐⭐ 2× | Jason Lemkin |
+| [Thinking in Systems](https://www.amazon.com/s?k=Thinking+in+Systems+Donella+H.+Meadows) | Donella H. Meadows | ⭐⭐ 2× | Simon Willison |
+| [Thinking in Bets](https://www.amazon.com/s?k=Thinking+in+Bets+Annie+Duke) | Annie Duke | ⭐⭐ 2× | Amol Avasare |
 
-## ð Books by Category
+## 📚 Category Breakdown
 
-| Category | Count |
-|----------|-------|
+| Category | Books |
+|----------|:-----:|
 | Leadership & Management | 11 |
 | Science Fiction | 8 |
 | Self-Help & Psychology | 7 |
-| Business & Startups | 5 |
+| Business & Startups | 6 |
 | Technology & Programming | 5 |
 | Business & Strategy | 4 |
 | Business & Innovation | 4 |
@@ -61,11 +71,10 @@ Analytics and trends from the Lenny's Podcast book database.
 | Self-Help & Philosophy | 1 |
 | Self-Help & Sports | 1 |
 
+## 👤 Books per Guest
 
-## ðï¸ Most Featured Guests (by books recommended)
-
-| Guest | Books |
-|-------|-------|
+| Guest | Books Recommended |
+|-------|:-----------------:|
 | Lane Shackleton | 7 |
 | Mike Maples Jr. | 6 |
 | Lenny Rachitsky | 4 |
@@ -76,78 +85,41 @@ Analytics and trends from the Lenny's Podcast book database.
 | Christine Itwaru | 4 |
 | Eric Ries | 4 |
 | Dan Shipper | 4 |
+| Boris Cherny | 3 |
+| Jacob Warwick | 3 |
+| Claire Vo | 3 |
+| Simon Willison | 3 |
+| Zevi Arnovitz | 3 |
+| Amol Avasare | 3 |
+| Cat Wu | 3 |
+| Evan Spiegel | 3 |
+| Nick Turley | 3 |
+| Qasar Younis | 2 |
+| Jenny Wen | 2 |
+| Dr. Becky Kennedy | 2 |
+| Sam Lessin | 2 |
+| Molly Graham | 2 |
+| Matt MacInnis | 2 |
+| Keith Rabois | 2 |
+| Bret Taylor | 2 |
+| Ronny Kohavi | 2 |
+| Brian Halligan | 1 |
+| Steve Kaliski | 1 |
+| Jason Lemkin | 1 |
+| Jason Cohen | 1 |
+| Marc Andreessen | 1 |
+| Alexander Embiricos | 1 |
+| Nikhyl Singhal | 1 |
+| Adriel Frederick | 1 |
+| Gaurav Misra | 1 |
+| Max Schoening | 1 |
+| Tony Fadell | 1 |
 
+## 📅 Books by Month
 
-## ð Most Recommended Books
-
-| Title | Author | Times |
-|-------|--------|-------|
-| The Pragmatic Programmer | David Thomas & Andrew Hunt | 5 |
-| The Hard Thing About Hard Things | Ben Horowitz | 3 |
-| Zero to One | Peter Thiel | 3 |
-| The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses | Eric Ries | 3 |
-| The Power Broker | Robert Caro | 2 |
-| Creativity, Inc. | Ed Catmull | 2 |
-| Crossing the Chasm | Geoffrey Moore | 2 |
-| Working Backwards | Colin Bryar & Bill Carr | 2 |
-| Thinking in Systems | Donella H. Meadows | 2 |
-| Thinking in Bets | Annie Duke | 2 |
-| Competing Against Luck | Clayton Christensen | 2 |
-| Endurance | Alfred Lansing | 2 |
-| Thinking, Fast and Slow | Daniel Kahneman | 2 |
-| High Output Management | Andy Grove | 2 |
-| The Design of Everyday Things | Don Norman | 2 |
-
-
-## ð Books Per Month
-
-| Month | Books |
-|-------|-------|
-| 2026-05 | 16 |
-| 2026-04 | 48 |
+| Month | Books Added |
+|-------|:-----------:|
 | 2026-03 | 36 |
-
-
-## ðï¸ Books Per Episode
-
-| Date | Episode | Books |
-|------|---------|-------|
-| 2026-05-28 | From Hackathon to History â Nick Turley on How ChatGPT Becamâ¦ | 3 |
-| 2026-05-25 | The AI Paradox: More Automation, More Humans, More Work â Daâ¦ | 4 |
-| 2026-05-11 | Incorruptible: How to Build a Company That Withstands Any Erâ¦ | 4 |
-| 2026-05-06 | The Rise of Product Ops: Christine Itwaru on Why Pendo's Proâ¦ | 4 |
-| 2026-05-04 | The Agency Era: Max Schoening on Why Notion's PMs Ship Code,â¦ | 1 |
-| 2026-04-29 | Cathedrals, Not Bricks: How Coda's CPO Builds Product Teams â¦ | 7 |
-| 2026-04-27 | Distribution Is the New Moat: Evan Spiegel on Why Software Aâ¦ | 3 |
-| 2026-04-25 | The Man Who Ran 20,000 Experiments: Ronny Kohavi on Why Yourâ¦ | 2 |
-| 2026-04-25 | Humans in the Loop: Adriel Frederick on Growth, Algorithms, â¦ | 1 |
-| 2026-04-25 | What Claude Design Is Actually Good For (And Why Figma Isn'tâ¦ | 2 |
-| 2026-04-25 | Ship Every Week or Die: Gaurav Misra on Captions, AI Video'sâ¦ | 1 |
-| 2026-04-24 | How Anthropic Ships Faster Than Anyone: Cat Wu on Building Câ¦ | 3 |
-| 2026-04-20 | The Career Coach to Tech's Best: Nikhyl Singhal on Ex-Growthâ¦ | 1 |
-| 2026-04-18 | The Builder's Mindset: How Bret Taylor Invented Google Maps,â¦ | 2 |
-| 2026-04-13 | The Team You Build Is the Company You Build: Keith Rabois onâ¦ | 2 |
-| 2026-04-10 | The Man Building Your AI Teammate: Inside OpenAI's Codex | 1 |
-| 2026-04-09 | The Quiet $1 Billion: How One 100-Person Lab Is Teaching AI â¦ | 4 |
-| 2026-04-08 | The Uncomfortable Truth About Great Leadership: Matt MacInniâ¦ | 2 |
-| 2026-04-07 | The High-Growth Handbook: Molly Graham's Battle-Tested Frameâ¦ | 2 |
-| 2026-04-06 | From Cold Email to $19B: How Anthropic's Head of Growth Rewrâ¦ | 3 |
-| 2026-04-05 | We Replaced Our Sales Team with 20 AI Agents ÃÂ¢ÃÂÃÂ And Hereâ¦ | 1 |
-| 2026-04-04 | From Calendar Catastrophe to Nine AI Agents: Claire Vo's Opeâ¦ | 1 |
-| 2026-04-04 | The Founder's Secret Weapon: Why Silicon Valley Needs an Etiâ¦ | 2 |
-| 2026-04-04 | When AI Crossed the Rubicon: Simon Willison on the Inflectioâ¦ | 3 |
-| 2026-04-04 | The Non-Technical PM's Guide to Building in the AI Era | 3 |
-| 2026-04-04 | When Growth Stops: Jason Cohen's 5-Question Diagnostic Everyâ¦ | 1 |
-| 2026-04-04 | The Real AI Boom Hasn't Even Started Yet ÃÂ¢ÃÂÃÂ Marc Andreesâ¦ | 1 |
-| 2026-03-26 | How Stripe Built an Army of AI Coders That Ship 1,300 Pull Râ¦ | 1 |
-| 2026-03-23 | The Art of Influence: Why Your Best Ideas Keep Getting Killeâ¦ | 4 |
-| 2026-03-21 | Your Coworkers Aren't Difficult ÃÂ¢ÃÂÃÂ They're Under-Skilledâ¦ | 2 |
-| 2026-03-20 | The Cisco President Who Started at $4/Hour ÃÂ¢ÃÂÃÂ and Why Heâ¦ | 4 |
-| 2026-03-19 | The Design Process Is Dead ÃÂ¢ÃÂÃÂ And That's a Good Thing | 2 |
-| 2026-03-18 | Engineers Are Becoming Sorcerers: Sherwin Wu on the Future oâ¦ | 4 |
-| 2026-03-17 | The Man Behind the Mic: Lenny Rachitsky on Building a Millioâ¦ | 4 |
-| 2026-03-16 | The Tactical Playbook for Getting 20-40% More Comp (Without â¦ | 3 |
-| 2026-03-15 | The $15 Billion Company Nobody Saw Coming | 2 |
-| 2026-03-12 | The CEO Equation: Brian Halligan on the Hardest Parts of Buiâ¦ | 1 |
-| 2026-03-11 | The Man Who Coded Away the Job of Coding: Boris Cherny on Clâ¦ | 3 |
-| 2026-03-10 | How Pattern Breakers Win: Mike Maples Jr.'s Framework for Stâ¦ | 6 |
+| 2026-04 | 48 |
+| 2026-05 | 16 |
+| 2026-06 | 1 |
