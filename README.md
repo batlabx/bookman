@@ -9,7 +9,7 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 | **Total Books** | 107 |
 | **Episodes Covered** | 41 |
 | **Categories** | 48 |
-| **Last Updated** | 2026-06-10 |
+| **Last Updated** | 2026-06-12 |
 
 ## ð All Recommended Books
 
