@@ -55,59 +55,33 @@ _Auto-generated stats from the Lenny's Podcast book database._
 
 ## 👤 Most Featured Authors
 
+- **David Thomas & Andrew Hunt**: 5×
+- **Clayton Christensen**: 4×
+- **Eric Ries**: 4×
 - **Michelle Rial**: 3×
-- **Clayton Christensen**: 3×
-- **Sam Lessin & Jack Raines**: 2×
-- **Douglas Hofstadter**: 2×
-- **Jim Collins**: 2×
-- **Eric Ries**: 2×
+- **Ben Horowitz**: 3×
+- **Colin Bryar & Bill Carr**: 3×
+- **Peter Thiel**: 3×
+- **Robert Caro**: 2×
+- **Ed Catmull**: 2×
+- **Geoffrey Moore**: 2×
 
 ## 🎙️ Books per Guest
 
-- **Lane Shackleton**: 7 books
-- **Mike Maples Jr.**: 6 books
-- **Heidi Helfand**: 6 books
-- **Lenny Rachitsky**: 4 books
-- **Sherwin Wu**: 4 books
-- **Jeetu Patel**: 4 books
-- **Jessica Fain**: 4 books
-- **Edwin Chen**: 4 books
-- **Christine Itwaru**: 4 books
-- **Eric Ries**: 4 books
-- **Dan Shipper**: 4 books
-- **Boris Cherny**: 3 books
-- **Jacob Warwick**: 3 books
-- **Claire Vo**: 3 books
-- **Simon Willison**: 3 books
-- **Zevi Arnovitz**: 3 books
-- **Amol Avasare**: 3 books
-- **Cat Wu**: 3 books
-- **Evan Spiegel**: 3 books
-- **Nick Turley**: 3 books
-- **Qasar Younis**: 2 books
-- **Jenny Wen**: 2 books
-- **Dr. Becky Kennedy**: 2 books
-- **Sam Lessin**: 2 books
-- **Molly Graham**: 2 books
-- **Matt MacInnis**: 2 books
-- **Keith Rabois**: 2 books
-- **Bret Taylor**: 2 books
-- **Ronny Kohavi**: 2 books
-- **Brian Halligan**: 1 book
-- **Steve Kaliski**: 1 book
-- **Jason Lemkin**: 1 book
-- **Jason Cohen**: 1 book
-- **Marc Andreessen**: 1 book
-- **Alexander Embiricos**: 1 book
-- **Nikhyl Singhal**: 1 book
-- **Adriel Frederick**: 1 book
-- **Gaurav Misra**: 1 book
-- **Max Schoening**: 1 book
-- **Tony Fadell**: 1 book
+- **Lane Shackleton**: 7 book(s)
+- **Mike Maples Jr.**: 6 book(s)
+- **Heidi Helfand**: 6 book(s)
+- **Lenny Rachitsky**: 4 book(s)
+- **Sherwin Wu**: 4 book(s)
+- **Jeetu Patel**: 4 book(s)
+- **Jessica Fain**: 4 book(s)
+- **Edwin Chen**: 4 book(s)
+- **Christine Itwaru**: 4 book(s)
+- **Eric Ries**: 4 book(s)
 
-## 📅 Books Added by Month
+## 📅 Books by Month
 
-- **2026-06**: 7 books
-- **2026-05**: 16 books
-- **2026-04**: 48 books
-- **2026-03**: 36 books
+- **2026-06**: 7 book(s)
+- **2026-05**: 16 book(s)
+- **2026-04**: 48 book(s)
+- **2026-03**: 36 book(s)
