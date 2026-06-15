@@ -6,10 +6,10 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 
 | Metric | Value |
 |--------|-------|
-| **Total Books** | 107 |
-| **Episodes Covered** | 41 |
+| **Total Books** | 108 |
+| **Episodes Covered** | 42 |
 | **Categories** | 48 |
-| **Last Updated** | 2026-06-12 |
+| **Last Updated** | 2026-06-15 |
 
 ## ð All Recommended Books
 
