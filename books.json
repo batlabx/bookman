@@ -716,7 +716,7 @@
     "goodreads_rating": null,
     "goodreads_url": null,
     "amazon_url": "https://www.amazon.com/s?k=Zero+to+One+Peter+Thiel",
-    "times_recommended": 3,
+    "times_recommended": 4,
     "added_at": "2026-04-05"
   },
   {
@@ -1361,7 +1361,7 @@
     "goodreads_rating": 4.11,
     "goodreads_url": "https://www.goodreads.com/book/show/10127019-the-lean-startup",
     "amazon_url": "https://www.amazon.com/s?k=The+Lean+Startup+How+Todays+Entrepreneurs+Use+Continuous+Innovation+to+Create+Radically+Successful+Businesses+Eric+Ries",
-    "times_recommended": 3,
+    "times_recommended": 4,
     "added_at": "2026-05-12"
   },
   {
@@ -1603,5 +1603,20 @@
     "amazon_url": "https://www.amazon.com/s?k=Liberating+Structures+Henri+Lipmanowicz+Keith+McCandless",
     "times_recommended": 1,
     "added_at": "2026-06-12"
+  },
+  {
+    "id": "life-at-the-speed-of-play-mark-pincus",
+    "title": "Life at the Speed of Play: Launch Products People Love!",
+    "author": "Mark Pincus",
+    "category": "Business & Startups",
+    "guest": "Mark Pincus",
+    "episode_title": "The Hidden Pattern Behind Successful Products | Mark Pincus (Founder of Zynga)",
+    "episode_date": "2026-06-15",
+    "source_url": "https://batlab.substack.com/p/the-hidden-pattern-behind-successful",
+    "goodreads_rating": null,
+    "goodreads_url": null,
+    "amazon_url": "https://www.amazon.com/s?k=Life+at+the+Speed+of+Play+Mark+Pincus",
+    "times_recommended": 1,
+    "added_at": "2026-06-15"
   }
 ]
