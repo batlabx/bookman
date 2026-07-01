@@ -6,10 +6,10 @@ Automatically tracks every book recommended on [Lenny's Podcast](https://www.len
 
 | Metric | Count |
 |---|---|
-| Total Books | 113 |
-| Episodes Covered | 36 |
+| Total Books | 119 |
+| Episodes Covered | 38 |
 | Categories | 49 |
-| Last Updated | 2026-06-18 |
+| Last Updated | 2026-07-01 |
 
 ## Files
 
