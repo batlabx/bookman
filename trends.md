@@ -1,6 +1,6 @@
 # 📊 Book Recommendation Trends
 
-*Last updated: 2026-06-18*
+*Last updated: 2026-07-01*
 
 ---
 
@@ -9,22 +9,22 @@
 | Category | Books |
 |---|---|
 | Leadership & Management | 14 |
-| Self-Help & Psychology | 10 |
+| Self-Help & Psychology | 11 |
 | Business & Startups | 9 |
 | Science Fiction | 8 |
 | Technology & Programming | 7 |
+| Literary Fiction | 6 |
 | Business & Strategy | 4 |
 | Business & Innovation | 4 |
-| Literary Fiction | 4 |
+| Self-Help & Spirituality | 4 |
 | Biography & History | 3 |
+| Design & UX | 3 |
 | Communication & Storytelling | 2 |
 | Fiction & Philosophy | 2 |
 | Negotiation & Communication | 2 |
 | Humor & Creativity | 2 |
 | Technology & Business | 2 |
 | Business & Leadership | 2 |
-| Self-Help & Spirituality | 2 |
-| Design & UX | 2 |
 | Product Management | 2 |
 | Philosophy & Ethics | 2 |
 | Science & Creativity | 1 |
@@ -73,10 +73,10 @@
 | Christine Itwaru | 4 |
 | Eric Ries | 4 |
 | Dan Shipper | 4 |
+| Andy Johns | 4 |
 | Boris Cherny | 3 |
 | Jacob Warwick | 3 |
 | Claire Vo | 3 |
-| Simon Willison | 3 |
 
 ## Most Recommended Authors
 
@@ -97,7 +97,7 @@
 
 | Month | New Books |
 |---|---|
-| 2026-06 | 9 |
+| 2026-06 | 15 |
 | 2026-05 | 16 |
 | 2026-04 | 48 |
 | 2026-03 | 40 |
@@ -116,6 +116,7 @@
 | Crossing the Chasm | Geoffrey Moore | 2 |
 | Thinking in Systems | Donella H. Meadows | 2 |
 | Thinking in Bets | Annie Duke | 2 |
+| Stories of Your Life and Others | Ted Chiang | 2 |
 | Competing Against Luck | Clayton Christensen | 2 |
 | Endurance | Alfred Lansing | 2 |
 | Thinking, Fast and Slow | Daniel Kahneman | 2 |
