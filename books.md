@@ -1,8 +1,22 @@
 # 📚 Lenny's Podcast Book Recommendations
 
-*Last updated: 2026-06-18 | 113 books across 45 episodes*
+*Last updated: 2026-07-01 | 119 books across 47 episodes*
 
 ---
+
+## [The Accidental Moonshot: How GitHub Copilot Went from a Near-DDoS Attack to the Future of Software Development](https://batlab.substack.com/p/the-accidental-moonshot-how-github)
+**Guest:** Ryan J. Salva | **Date:** 2026-06-29
+
+- **[Make It So: Interaction Design Lessons from Science Fiction](https://www.amazon.com/s?k=Make+It+So%3A+Interaction+Design+Lessons+from+Science+Fiction+Nathan+Shedroff+and+Christopher+Noessel)** by Nathan Shedroff and Christopher Noessel ⭐ 3.89 ([Goodreads](https://www.goodreads.com/book/show/16031799-make-it-so))
+- **[Brief Interviews with Hideous Men](https://www.amazon.com/s?k=Brief+Interviews+with+Hideous+Men+David+Foster+Wallace)** by David Foster Wallace ⭐ 3.84 ([Goodreads](https://www.goodreads.com/book/show/6753.Brief_Interviews_with_Hideous_Men))
+
+## [From Silicon Valley's Peak to a Mental Health Journey: Andy Johns on Burnout, Healing, and the Four Steps of Deep Transformation](https://batlab.substack.com/p/from-silicon-valleys-peak-to-a-mental)
+**Guest:** Andy Johns | **Date:** 2026-06-22
+
+- **[The Body Keeps the Score](https://www.amazon.com/s?k=The+Body+Keeps+the+Score+Bessel+van+der+Kolk)** by Bessel van der Kolk ⭐ 4.34 ([Goodreads](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score))
+- **[The Power of Now](https://www.amazon.com/s?k=The+Power+of+Now+Eckhart+Tolle)** by Eckhart Tolle ⭐ 4.15 ([Goodreads](https://www.goodreads.com/book/show/6708.The_Power_of_Now))
+- **[When Things Fall Apart](https://www.amazon.com/s?k=When+Things+Fall+Apart+Pema+Ch%C3%B6dr%C3%B6n)** by Pema Chödrön ⭐ 4.26 ([Goodreads](https://www.goodreads.com/book/show/687278.When_Things_Fall_Apart))
+- **[Moby Dick](https://www.amazon.com/s?k=Moby+Dick+Herman+Melville)** by Herman Melville ⭐ 3.57 ([Goodreads](https://www.goodreads.com/en/book/show/153747.Moby_Dick_or_The_Whale))
 
 ## [The Pricing Playbook: Naomi Ionita on When to Charge, What to Charge, and Why Most Founders Get It Wrong](https://batlab.substack.com/p/the-pricing-playbook-naomi-ionita)
 **Guest:** Naomi Ionita | **Date:** 2026-06-17
@@ -140,7 +154,7 @@
 - **[Stories of Your Life and Others](https://www.amazon.com/s?k=Stories+of+Your+Life+and+Others+Ted+Chiang)** by Ted Chiang
 - **[The Myth of Sisyphus](https://www.amazon.com/s?k=The+Myth+of+Sisyphus+Albert+Camus)** by Albert Camus
 - **[Le Ton Beau de Marot](https://www.amazon.com/s?k=Le+Ton+Beau+de+Marot+Douglas+Hofstadter)** by Douglas Hofstadter
-- **[GÃÂ¶del, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter)** by Douglas Hofstadter
+- **[Gödel, Escher, Bach](https://www.amazon.com/s?k=Godel+Escher+Bach+Douglas+Hofstadter)** by Douglas Hofstadter
 
 ## [The Uncomfortable Truth About Great Leadership: Matt MacInnis's 10 Contrarian Principles](https://coverdrive.substack.com/p/the-uncomfortable-truth-about-great)
 **Guest:** Matt MacInnis | **Date:** 2026-04-08
@@ -271,7 +285,7 @@
 ## [The Man Who Coded Away the Job of Coding: Boris Cherny on Claude Code, the Printing Press Moment, and Why 'Builder' Will Replace 'Engineer'](https://coverdrive.substack.com/p/the-man-who-coded-away-the-job-of)
 **Guest:** Boris Cherny | **Date:** 2026-03-11
 
-- **[Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano)** by Paul Chiusano & Runar Bjarnason
+- **[Functional Programming in Scala](https://www.amazon.com/s?k=Functional+Programming+in+Scala+Paul+Chiusano)** by Paul Chiusano & Rúnar Bjarnason
 - **[Accelerando](https://www.amazon.com/s?k=Accelerando+Charles+Stross)** by Charles Stross
 - **[The Wandering Earth](https://www.amazon.com/s?k=The+Wandering+Earth+Liu+Cixin)** by Liu Cixin
 
