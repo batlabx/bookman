@@ -1,8 +1,29 @@
 # 📚 Lenny's Podcast Book Recommendations
 
-*Last updated: 2026-07-01 | 119 books across 47 episodes*
+*Last updated: 2026-07-13 | 128 books across 50 episodes*
 
 ---
+
+## [What Separates a Top 1% Product Manager](https://batlab.substack.com/p/builder-friday-what-separates-a-top)
+**Guest:** Ian McAllister | **Date:** 2026-07-10
+
+- **[Getting Real](https://www.amazon.com/s?k=Getting+Real+37signals)** by 37signals ⭐ 4 ([Goodreads](https://www.goodreads.com/book/show/447648.Getting_Real))
+- **[Energy and Civilization: A History](https://www.amazon.com/s?k=Energy+and+Civilization%3A+A+History+Vaclav+Smil)** by Vaclav Smil ⭐ 4.09 ([Goodreads](https://www.goodreads.com/book/show/31850765-energy-and-civilization))
+
+## [Paid Is for Everyone: A Performance Marketing Masterclass with Timothy Davis](https://batlab.substack.com/p/paid-is-for-everyone-a-performance)
+**Guest:** Timothy Davis | **Date:** 2026-07-08
+
+- **[The Signal and the Noise](https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver)** by Nate Silver ⭐ 3.97 ([Goodreads](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise))
+- **[The First 90 Days](https://www.amazon.com/s?k=The+First+90+Days+Michael+D.+Watkins)** by Michael D. Watkins ⭐ 3.85 ([Goodreads](https://www.goodreads.com/book/show/15824358-the-first-90-days))
+- **[The Daily Stoic](https://www.amazon.com/s?k=The+Daily+Stoic+Ryan+Holiday+%26+Stephen+Hanselman)** by Ryan Holiday & Stephen Hanselman ⭐ 4.36 ([Goodreads](https://www.goodreads.com/book/show/29093292-the-daily-stoic))
+- **[Great by Choice](https://www.amazon.com/s?k=Great+by+Choice+Jim+Collins+%26+Morten+T.+Hansen)** by Jim Collins & Morten T. Hansen ⭐ 4.11 ([Goodreads](https://www.goodreads.com/book/show/12675109-great-by-choice))
+- **[Deep Work](https://www.amazon.com/s?k=Deep+Work+Cal+Newport)** by Cal Newport ⭐ 4.16 ([Goodreads](https://www.goodreads.com/book/show/25744928-deep-work))
+
+## [The Godmother of AI: Fei-Fei Li on World Models, Spatial Intelligence, and Why There's Nothing Artificial About AI](https://batlab.substack.com/p/the-godmother-of-ai-fei-fei-li-on)
+**Guest:** Fei-Fei Li | **Date:** 2026-07-06
+
+- **[The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI](https://www.amazon.com/s?k=The+Worlds+I+See%3A+Curiosity%2C+Exploration%2C+and+Discovery+at+the+Dawn+of+AI+Fei-Fei+Li)** by Fei-Fei Li ⭐ 4.3 ([Goodreads](https://www.goodreads.com/book/show/144405196-the-worlds-i-see))
+- **[The Republic](https://www.amazon.com/s?k=The+Republic+Plato)** by Plato ⭐ 3.97 ([Goodreads](https://www.goodreads.com/book/show/30289.The_Republic))
 
 ## [The Accidental Moonshot: How GitHub Copilot Went from a Near-DDoS Attack to the Future of Software Development](https://batlab.substack.com/p/the-accidental-moonshot-how-github)
 **Guest:** Ryan J. Salva | **Date:** 2026-06-29
