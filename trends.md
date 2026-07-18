@@ -1,6 +1,6 @@
 # 📊 Book Recommendation Trends
 
-*Last updated: 2026-07-13*
+*Last updated: 2026-07-18*
 
 ---
 
@@ -9,14 +9,14 @@
 | Category | Books |
 |---|---|
 | Leadership & Management | 15 |
-| Self-Help & Psychology | 12 |
-| Business & Startups | 9 |
+| Self-Help & Psychology | 13 |
+| Business & Startups | 11 |
 | Technology & Programming | 8 |
 | Science Fiction | 8 |
 | Literary Fiction | 6 |
 | Business & Strategy | 5 |
+| Self-Help & Spirituality | 5 |
 | Business & Innovation | 4 |
-| Self-Help & Spirituality | 4 |
 | Biography & History | 3 |
 | Design & UX | 3 |
 | Communication & Storytelling | 2 |
@@ -27,6 +27,7 @@
 | Business & Leadership | 2 |
 | Philosophy | 2 |
 | Business & Data Science | 2 |
+| Product Development | 2 |
 | Economics & History | 2 |
 | Technology & History | 2 |
 | Self-Help & Philosophy | 2 |
@@ -52,7 +53,6 @@
 | Science & Philosophy | 1 |
 | Sports & Biography | 1 |
 | Psychology & Decision Making | 1 |
-| Product Development | 1 |
 | Economics & Geopolitics | 1 |
 | Leadership & Sports | 1 |
 | Self-Help & Sports | 1 |
@@ -77,6 +77,14 @@
 | Andy Johns | 4 |
 | Boris Cherny | 3 |
 | Jacob Warwick | 3 |
+| Claire Vo | 3 |
+| Simon Willison | 3 |
+| Zevi Arnovitz | 3 |
+| Amol Avasare | 3 |
+| Cat Wu | 3 |
+| Evan Spiegel | 3 |
+| Nick Turley | 3 |
+| Upasna Gautam | 3 |
 
 ## Most Recommended Authors
 
@@ -97,7 +105,7 @@
 
 | Month | New Books |
 |---|---|
-| 2026-07 | 9 |
+| 2026-07 | 14 |
 | 2026-06 | 15 |
 | 2026-05 | 16 |
 | 2026-04 | 48 |
@@ -117,6 +125,7 @@
 | Crossing the Chasm | Geoffrey Moore | 2 |
 | Thinking in Systems | Donella H. Meadows | 2 |
 | Thinking in Bets | Annie Duke | 2 |
+| Atomic Habits | James Clear | 2 |
 | Stories of Your Life and Others | Ted Chiang | 2 |
 | Competing Against Luck | Clayton Christensen | 2 |
 | Endurance | Alfred Lansing | 2 |
