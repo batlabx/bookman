@@ -1,8 +1,21 @@
 # 📚 Lenny's Podcast Book Recommendations
 
-*Last updated: 2026-07-13 | 128 books across 50 episodes*
+*Last updated: 2026-07-18 | 133 books across 52 episodes*
 
 ---
+
+## [Fall in Love with the Problem: Uri Levine's Founder Playbook](https://batlab.substack.com/p/fall-in-love-with-the-problem-uri)
+**Guest:** Uri Levine | **Date:** 2026-07-17
+
+- **[That Will Never Work](https://www.amazon.com/s?k=That+Will+Never+Work+Marc+Randolph)** by Marc Randolph ⭐ 4.22 ([Goodreads](https://www.goodreads.com/book/show/44428950-that-will-never-work))
+- **[Fall in Love with the Problem, Not the Solution](https://www.amazon.com/s?k=Fall+in+Love+with+the+Problem+Not+the+Solution+Uri+Levine)** by Uri Levine ⭐ 4.35 ([Goodreads](https://www.goodreads.com/book/show/61131333-fall-in-love-with-the-problem-not-the-solution))
+
+## [Inside CNN: Product Management at the Speed of Breaking News](https://batlab.substack.com/p/inside-cnn-product-management-at)
+**Guest:** Upasna Gautam | **Date:** 2026-07-16
+
+- **[Mindfulness in Plain English](https://www.amazon.com/s?k=Mindfulness+in+Plain+English+Bhante+Henepola+Gunaratana)** by Bhante Henepola Gunaratana ⭐ 4.16 ([Goodreads](https://www.goodreads.com/book/show/64369.Mindfulness_in_Plain_English))
+- **[How to Win Friends and Influence People](https://www.amazon.com/s?k=How+to+Win+Friends+and+Influence+People+Dale+Carnegie)** by Dale Carnegie ⭐ 4.21 ([Goodreads](https://www.goodreads.com/book/show/6945594-how-to-win-friends-and-influence-people-by-dale-carnegie))
+- **[The New Product Development Game](https://www.amazon.com/s?k=The+New+Product+Development+Game+Hirotaka+Takeuchi+Ikujiro+Nonaka)** by Hirotaka Takeuchi & Ikujiro Nonaka ⭐ 4 ([Goodreads](https://www.goodreads.com/book/show/59478890-the-new-new-product-development-game))
 
 ## [What Separates a Top 1% Product Manager](https://batlab.substack.com/p/builder-friday-what-separates-a-top)
 **Guest:** Ian McAllister | **Date:** 2026-07-10
