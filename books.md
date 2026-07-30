@@ -1,8 +1,15 @@
 # Bookman — Lenny's Podcast Book Recommendations
 
-*140 books from 54 episodes. Last updated: 2026-07-29.*
+*143 books from 55 episodes. Last updated: 2026-07-30.*
 
 ---
+
+## 2026-07-30 — Product Management Is Clarity and Conviction
+**Guest:** Ebi Atawodi
+
+- **The 48 Laws of Power** by Robert Greene (⭐ 4.08) | [Amazon](https://www.amazon.com/s?k=The+48+Laws+of+Power+Robert+Greene) | [Goodreads](https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power)
+- **The God of Small Things** by Arundhati Roy (⭐ 3.96) | [Amazon](https://www.amazon.com/s?k=The+God+of+Small+Things+Arundhati+Roy) | [Goodreads](https://www.goodreads.com/book/show/9777.The_God_of_Small_Things)
+- **Outliers** by Malcolm Gladwell (⭐ 4.19) | [Amazon](https://www.amazon.com/s?k=Outliers+Malcolm+Gladwell) | [Goodreads](https://www.goodreads.com/book/show/3228917-outliers)
 
 ## 2026-07-24 — Building Product Where the Mission Is the Metric
 **Guest:** Alex Hardiman
