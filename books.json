@@ -2098,5 +2098,50 @@
     "amazon_url": "https://www.amazon.com/s?k=Murderbot+Diaries+Martha+Wells",
     "times_recommended": 1,
     "added_at": "2026-07-24"
-  }
+  },
+{
+"id": "the-48-laws-of-power-robert-greene",
+"title": "The 48 Laws of Power",
+"author": "Robert Greene",
+"category": "Psychology & Persuasion",
+"guest": "Ebi Atawodi",
+"episode_title": "Product Management Is Clarity and Conviction",
+"episode_date": "2026-07-30",
+"source_url": "https://batlab.substack.com/p/product-management-is-clarity-and",
+"goodreads_rating": 4.08,
+"goodreads_url": "https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power",
+"amazon_url": "https://www.amazon.com/s?k=The+48+Laws+of+Power+Robert+Greene",
+"times_recommended": 1,
+"added_at": "2026-07-30"
+},
+{
+"id": "the-god-of-small-things-arundhati-roy",
+"title": "The God of Small Things",
+"author": "Arundhati Roy",
+"category": "Literary Fiction",
+"guest": "Ebi Atawodi",
+"episode_title": "Product Management Is Clarity and Conviction",
+"episode_date": "2026-07-30",
+"source_url": "https://batlab.substack.com/p/product-management-is-clarity-and",
+"goodreads_rating": 3.96,
+"goodreads_url": "https://www.goodreads.com/book/show/9777.The_God_of_Small_Things",
+"amazon_url": "https://www.amazon.com/s?k=The+God+of+Small+Things+Arundhati+Roy",
+"times_recommended": 1,
+"added_at": "2026-07-30"
+},
+{
+"id": "outliers-malcolm-gladwell",
+"title": "Outliers",
+"author": "Malcolm Gladwell",
+"category": "Psychology & Business",
+"guest": "Ebi Atawodi",
+"episode_title": "Product Management Is Clarity and Conviction",
+"episode_date": "2026-07-30",
+"source_url": "https://batlab.substack.com/p/product-management-is-clarity-and",
+"goodreads_rating": 4.19,
+"goodreads_url": "https://www.goodreads.com/book/show/3228917-outliers",
+"amazon_url": "https://www.amazon.com/s?k=Outliers+Malcolm+Gladwell",
+"times_recommended": 1,
+"added_at": "2026-07-30"
+}
 ]
