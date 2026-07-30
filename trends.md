@@ -1,6 +1,6 @@
 # Bookman — Trends & Analytics
 
-*Last updated: 2026-07-29*
+*Last updated: 2026-07-30*
 
 ## Categories
 
@@ -11,7 +11,7 @@
 | Business & Startups | 12 |
 | Science Fiction | 9 |
 | Technology & Programming | 8 |
-| Literary Fiction | 7 |
+| Literary Fiction | 8 |
 | Business & Strategy | 5 |
 | Self-Help & Spirituality | 5 |
 | Business & Innovation | 4 |
@@ -31,16 +31,16 @@
 | Self-Help & Philosophy | 2 |
 | Product Management | 2 |
 | Philosophy & Ethics | 2 |
+| Psychology & Persuasion | 2 |
+| Psychology & Business | 2 |
 | Science & Creativity | 1 |
 | Marketing & Business | 1 |
 | History & Business | 1 |
 | History | 1 |
-| Psychology & Persuasion | 1 |
 | Self-Help & Humor | 1 |
 | Children's Literature | 1 |
 | Technology & Geopolitics | 1 |
 | Self-Help & Motivation | 1 |
-| Psychology & Business | 1 |
 | Business & Creativity | 1 |
 | Business & Marketing | 1 |
 | Business & Management | 1 |
@@ -100,6 +100,7 @@
 | Evan Spiegel | 3 |
 | Nick Turley | 3 |
 | Upasna Gautam | 3 |
+| Ebi Atawodi | 3 |
 
 ## Most Recommended Books (2+ times)
 
@@ -132,4 +133,4 @@
 | 2026-04 | 48 |
 | 2026-05 | 16 |
 | 2026-06 | 15 |
-| 2026-07 | 21 |
+| 2026-07 | 24 |
