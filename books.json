@@ -701,7 +701,7 @@
     "goodreads_rating": null,
     "goodreads_url": null,
     "amazon_url": "https://www.amazon.com/s?k=Mindset%3A+The+New+Psychology+of+Success+Carol+S.+Dweck",
-    "times_recommended": 1,
+    "times_recommended": 2,
     "added_at": "2026-04-05"
   },
   {
@@ -1016,7 +1016,7 @@
     "goodreads_rating": null,
     "goodreads_url": null,
     "amazon_url": "https://www.amazon.com/s?k=Thinking+Fast+and+Slow+Daniel+Kahneman",
-    "times_recommended": 2,
+    "times_recommended": 3,
     "added_at": "2026-04-26"
   },
   {
@@ -1031,7 +1031,7 @@
     "goodreads_rating": null,
     "goodreads_url": null,
     "amazon_url": "https://www.amazon.com/s?k=High+Output+Management+Andy+Grove",
-    "times_recommended": 2,
+    "times_recommended": 3,
     "added_at": "2026-04-26"
   },
   {
@@ -2099,49 +2099,64 @@
     "times_recommended": 1,
     "added_at": "2026-07-24"
   },
-{
-"id": "the-48-laws-of-power-robert-greene",
-"title": "The 48 Laws of Power",
-"author": "Robert Greene",
-"category": "Psychology & Persuasion",
-"guest": "Ebi Atawodi",
-"episode_title": "Product Management Is Clarity and Conviction",
-"episode_date": "2026-07-30",
-"source_url": "https://batlab.substack.com/p/product-management-is-clarity-and",
-"goodreads_rating": 4.08,
-"goodreads_url": "https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power",
-"amazon_url": "https://www.amazon.com/s?k=The+48+Laws+of+Power+Robert+Greene",
-"times_recommended": 1,
-"added_at": "2026-07-30"
-},
-{
-"id": "the-god-of-small-things-arundhati-roy",
-"title": "The God of Small Things",
-"author": "Arundhati Roy",
-"category": "Literary Fiction",
-"guest": "Ebi Atawodi",
-"episode_title": "Product Management Is Clarity and Conviction",
-"episode_date": "2026-07-30",
-"source_url": "https://batlab.substack.com/p/product-management-is-clarity-and",
-"goodreads_rating": 3.96,
-"goodreads_url": "https://www.goodreads.com/book/show/9777.The_God_of_Small_Things",
-"amazon_url": "https://www.amazon.com/s?k=The+God+of+Small+Things+Arundhati+Roy",
-"times_recommended": 1,
-"added_at": "2026-07-30"
-},
-{
-"id": "outliers-malcolm-gladwell",
-"title": "Outliers",
-"author": "Malcolm Gladwell",
-"category": "Psychology & Business",
-"guest": "Ebi Atawodi",
-"episode_title": "Product Management Is Clarity and Conviction",
-"episode_date": "2026-07-30",
-"source_url": "https://batlab.substack.com/p/product-management-is-clarity-and",
-"goodreads_rating": 4.19,
-"goodreads_url": "https://www.goodreads.com/book/show/3228917-outliers",
-"amazon_url": "https://www.amazon.com/s?k=Outliers+Malcolm+Gladwell",
-"times_recommended": 1,
-"added_at": "2026-07-30"
-}
+  {
+    "id": "the-48-laws-of-power-robert-greene",
+    "title": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "category": "Psychology & Persuasion",
+    "guest": "Ebi Atawodi",
+    "episode_title": "Product Management Is Clarity and Conviction",
+    "episode_date": "2026-07-30",
+    "source_url": "https://batlab.substack.com/p/product-management-is-clarity-and",
+    "goodreads_rating": 4.08,
+    "goodreads_url": "https://www.goodreads.com/book/show/1303.The_48_Laws_of_Power",
+    "amazon_url": "https://www.amazon.com/s?k=The+48+Laws+of+Power+Robert+Greene",
+    "times_recommended": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "id": "the-god-of-small-things-arundhati-roy",
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "category": "Literary Fiction",
+    "guest": "Ebi Atawodi",
+    "episode_title": "Product Management Is Clarity and Conviction",
+    "episode_date": "2026-07-30",
+    "source_url": "https://batlab.substack.com/p/product-management-is-clarity-and",
+    "goodreads_rating": 3.96,
+    "goodreads_url": "https://www.goodreads.com/book/show/9777.The_God_of_Small_Things",
+    "amazon_url": "https://www.amazon.com/s?k=The+God+of+Small+Things+Arundhati+Roy",
+    "times_recommended": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "id": "outliers-malcolm-gladwell",
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "category": "Psychology & Business",
+    "guest": "Ebi Atawodi",
+    "episode_title": "Product Management Is Clarity and Conviction",
+    "episode_date": "2026-07-30",
+    "source_url": "https://batlab.substack.com/p/product-management-is-clarity-and",
+    "goodreads_rating": 4.19,
+    "goodreads_url": "https://www.goodreads.com/book/show/3228917-outliers",
+    "amazon_url": "https://www.amazon.com/s?k=Outliers+Malcolm+Gladwell",
+    "times_recommended": 1,
+    "added_at": "2026-07-30"
+  },
+  {
+    "id": "never-search-alone-phyl-terry",
+    "title": "Never Search Alone",
+    "author": "Phyl Terry",
+    "category": "Self-Help & Psychology",
+    "guest": "Tomer Cohen",
+    "episode_title": "We Might Be Wrong, But We Are Not Confused",
+    "episode_date": "2026-07-31",
+    "source_url": "https://batlab.substack.com/p/we-might-be-wrong-but-we-are-not",
+    "goodreads_rating": null,
+    "goodreads_url": null,
+    "amazon_url": "https://www.amazon.com/s?k=Never+Search+Alone+Phyl+Terry",
+    "times_recommended": 1,
+    "added_at": "2026-07-31"
+  }
 ]
