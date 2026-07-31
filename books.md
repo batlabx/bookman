@@ -1,8 +1,13 @@
 # Bookman — Lenny's Podcast Book Recommendations
 
-*143 books from 55 episodes. Last updated: 2026-07-30.*
+*144 books from 56 episodes. Last updated: 2026-07-31.*
 
 ---
+
+## 2026-07-31 — We Might Be Wrong, But We Are Not Confused
+**Guest:** Tomer Cohen
+
+- **Never Search Alone** by Phyl Terry | [Amazon](https://www.amazon.com/s?k=Never+Search+Alone+Phyl+Terry)
 
 ## 2026-07-30 — Product Management Is Clarity and Conviction
 **Guest:** Ebi Atawodi
@@ -79,8 +84,8 @@
 
 - **Monetizing Innovation** by Madhavan Ramanujam (⭐ 4.15) | [Amazon](https://www.amazon.com/s?k=Monetizing+Innovation+Madhavan+Ramanujam) | [Goodreads](https://www.goodreads.com/book/show/30121516-monetizing-innovation)
 
-## 2026-06-15 — The Hidden Pattern Behind Successful Products | Mark Pincus (Founder of Zynga)
-**Guest:** Mark Pincus
+## 2026-06-15 — The Hidden Pattern Behind Successful Products 
+**Guest:**  Mark Pincus (Founder of Zynga)
 
 - **Life at the Speed of Play: Launch Products People Love!** by Mark Pincus | [Amazon](https://www.amazon.com/s?k=Life+at+the+Speed+of+Play+Mark+Pincus)
 
