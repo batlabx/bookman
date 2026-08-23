@@ -1,8 +1,15 @@
 # Bookman — Lenny's Podcast Book Recommendations
 
-*144 books from 56 episodes. Last updated: 2026-07-31.*
+*147 books from 57 episodes. Last updated: 2026-08-23.*
 
 ---
+
+## 2026-08-06 — Find Your Superpowers, Embrace Your Kryptonite, Lead From Within
+**Guest:** Donna Lichaw
+
+- **The Leader's Journey** by Donna Lichaw (⭐ 4.03) | [Amazon](https://www.amazon.com/s?k=The+Leader%27s+Journey+Donna+Lichaw) | [Goodreads](https://www.goodreads.com/book/show/125560311-the-leader-s-journey)
+- **The User's Journey** by Donna Lichaw (⭐ 3.92) | [Amazon](https://www.amazon.com/s?k=The+User%27s+Journey+Donna+Lichaw) | [Goodreads](https://www.goodreads.com/book/show/25587382-the-user-s-journey)
+- **The Art of Possibility** by Rosamund Stone Zander & Benjamin Zander (⭐ 3.92) | [Amazon](https://www.amazon.com/s?k=The+Art+of+Possibility+Rosamund+Stone+Zander+%26+Benjamin+Zander) | [Goodreads](https://www.goodreads.com/book/show/85697.The_Art_of_Possibility)
 
 ## 2026-07-31 — We Might Be Wrong, But We Are Not Confused
 **Guest:** Tomer Cohen
