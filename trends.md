@@ -1,13 +1,13 @@
 # Bookman — Trends & Analytics
 
-*Last updated: 2026-07-31*
+*Last updated: 2026-08-23*
 
 ## Categories
 
 | Category | Books |
 |----------|-------|
-| Leadership & Management | 16 |
-| Self-Help & Psychology | 14 |
+| Leadership & Management | 17 |
+| Self-Help & Psychology | 15 |
 | Business & Startups | 12 |
 | Science Fiction | 9 |
 | Literary Fiction | 8 |
@@ -15,8 +15,8 @@
 | Business & Strategy | 5 |
 | Self-Help & Spirituality | 5 |
 | Business & Innovation | 4 |
+| Design & UX | 4 |
 | Biography & History | 3 |
-| Design & UX | 3 |
 | Business & Data Science | 2 |
 | Business & Leadership | 2 |
 | Communication & Storytelling | 2 |
@@ -66,6 +66,7 @@
 | Clayton Christensen | 3 |
 | Michelle Rial | 3 |
 | Chip Huyen | 2 |
+| Donna Lichaw | 2 |
 | Douglas Hofstadter | 2 |
 | Eric Ries | 2 |
 | Jim Collins | 2 |
@@ -94,6 +95,7 @@
 | Boris Cherny | 3 |
 | Cat Wu | 3 |
 | Claire Vo | 3 |
+| Donna Lichaw | 3 |
 | Ebi Atawodi | 3 |
 | Evan Spiegel | 3 |
 | Jacob Warwick | 3 |
@@ -135,3 +137,4 @@
 | 2026-05 | 16 |
 | 2026-06 | 15 |
 | 2026-07 | 25 |
+| 2026-08 | 3 |
