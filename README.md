@@ -4,10 +4,10 @@ Every book recommended on Lenny's Podcast, tracked and enriched automatically.
 
 | Stat | Count |
 |------|-------|
-| Total Books | 144 |
-| Episodes Covered | 56 |
+| Total Books | 147 |
+| Episodes Covered | 57 |
 | Categories | 52 |
-| Last Updated | 2026-07-31 |
+| Last Updated | 2026-08-23 |
 
 ## Files
 
