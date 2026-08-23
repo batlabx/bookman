@@ -2158,5 +2158,50 @@
     "amazon_url": "https://www.amazon.com/s?k=Never+Search+Alone+Phyl+Terry",
     "times_recommended": 1,
     "added_at": "2026-07-31"
+  },
+  {
+    "id": "the-leaders-journey-donna-lichaw",
+    "title": "The Leader's Journey",
+    "author": "Donna Lichaw",
+    "category": "Leadership & Management",
+    "guest": "Donna Lichaw",
+    "episode_title": "Find Your Superpowers, Embrace Your Kryptonite, Lead From Within",
+    "episode_date": "2026-08-06",
+    "source_url": "https://batlab.substack.com/p/find-your-superpowers-embrace-your",
+    "goodreads_rating": 4.03,
+    "goodreads_url": "https://www.goodreads.com/book/show/125560311-the-leader-s-journey",
+    "amazon_url": "https://www.amazon.com/s?k=The+Leader%27s+Journey+Donna+Lichaw",
+    "times_recommended": 1,
+    "added_at": "2026-08-23"
+  },
+  {
+    "id": "the-users-journey-donna-lichaw",
+    "title": "The User's Journey",
+    "author": "Donna Lichaw",
+    "category": "Design & UX",
+    "guest": "Donna Lichaw",
+    "episode_title": "Find Your Superpowers, Embrace Your Kryptonite, Lead From Within",
+    "episode_date": "2026-08-06",
+    "source_url": "https://batlab.substack.com/p/find-your-superpowers-embrace-your",
+    "goodreads_rating": 3.92,
+    "goodreads_url": "https://www.goodreads.com/book/show/25587382-the-user-s-journey",
+    "amazon_url": "https://www.amazon.com/s?k=The+User%27s+Journey+Donna+Lichaw",
+    "times_recommended": 1,
+    "added_at": "2026-08-23"
+  },
+  {
+    "id": "the-art-of-possibility-rosamund-stone-zander",
+    "title": "The Art of Possibility",
+    "author": "Rosamund Stone Zander & Benjamin Zander",
+    "category": "Self-Help & Psychology",
+    "guest": "Donna Lichaw",
+    "episode_title": "Find Your Superpowers, Embrace Your Kryptonite, Lead From Within",
+    "episode_date": "2026-08-06",
+    "source_url": "https://batlab.substack.com/p/find-your-superpowers-embrace-your",
+    "goodreads_rating": 3.92,
+    "goodreads_url": "https://www.goodreads.com/book/show/85697.The_Art_of_Possibility",
+    "amazon_url": "https://www.amazon.com/s?k=The+Art+of+Possibility+Rosamund+Stone+Zander+%26+Benjamin+Zander",
+    "times_recommended": 1,
+    "added_at": "2026-08-23"
   }
 ]
