@@ -6,10 +6,10 @@ Every book recommended on [Lenny's Podcast](https://www.lennyspodcast.com/), ext
 
 | Metric | Value |
 |--------|-------|
-| Total Books | 159 |
-| Episodes Covered | 62 |
-| Categories | 52 |
-| Last Updated | 2026-09-21 |
+| Total Books | 163 |
+| Episodes Covered | 64 |
+| Categories | 62 |
+| Last Updated | 2026-09-26 |
 
 ## Files
 
