@@ -1,8 +1,20 @@
 # 📚 Bookman: Lenny's Podcast Book Recommendations
 
-*159 books from 62 episodes. Last updated: 2026-09-21.*
+*163 books from 64 episodes. Last updated: 2026-09-26.*
 
 ---
+
+## Context Is All You Need: Logan Kilpatrick on Building With AI
+**Guest:** Logan Kilpatrick | **Date:** 2026-09-25
+
+- **The One World Schoolhouse** by Sal Khan ⭐ 4.33 — [Amazon](https://www.amazon.com/s?k=The%20One%20World%20Schoolhouse%20Sal%20Khan) | [Goodreads](https://www.goodreads.com/book/show/15898640-the-one-world-schoolhouse)
+- **Why We Sleep** by Matthew Walker ⭐ 4.36 — [Amazon](https://www.amazon.com/s?k=Why%20We%20Sleep%20Matthew%20Walker) | [Goodreads](https://www.goodreads.com/book/show/34466963-why-we-sleep)
+
+## How Gamma Hit $100M ARR With 30 People and Word of Mouth
+**Guest:** Grant Lee | **Date:** 2026-09-24
+
+- **7 Powers** by Hamilton Helmer ⭐ 4.25 — [Amazon](https://www.amazon.com/s?k=7%20Powers%20Hamilton%20Helmer) | [Goodreads](https://www.goodreads.com/book/show/32816087-7-powers)
+- **Nobody Wants to Read Your Sh*t** by Steven Pressfield ⭐ 4.18 — [Amazon](https://www.amazon.com/s?k=Nobody%20Wants%20to%20Read%20Your%20Sh%2At%20Steven%20Pressfield) | [Goodreads](https://www.goodreads.com/book/show/30556551-nobody-wants-to-read-your-sh-t)
 
 ## How Substack Is Reshaping Internet Publishing
 **Guest:** Sachin Monga | **Date:** 2026-09-18
@@ -302,7 +314,7 @@
 **Guest:** Zevi Arnovitz | **Date:** 2026-04-04
 
 - **The Fountainhead** by Ayn Rand — [Amazon](https://www.amazon.com/s?k=The+Fountainhead+Ayn+Rand)
-- **Shoe Dog** by Phil Knight — [Amazon](https://www.amazon.com/s?k=Shoe+Dog+Phil+Knight)
+- **Shoe Dog** by Phil Knight — [Amazon](https://www.amazon.com/s?k=Shoe+Dog+Phil+Knight) *(recommended 2x)*
 - **Mindset: The New Psychology of Success** by Carol S. Dweck — [Amazon](https://www.amazon.com/s?k=Mindset%3A+The+New+Psychology+of+Success+Carol+S.+Dweck) *(recommended 2x)*
 
 ## When Growth Stops: Jason Cohen's 5-Question Diagnostic Every Founder Needs
@@ -410,4 +422,3 @@
 
 - **AI Engineering** by Chip Huyen — [Amazon](https://www.amazon.com/s?k=AI+Engineering+Chip+Huyen)
 - **Designing Machine Learning Systems** by Chip Huyen ⭐ 4.44 — [Amazon](https://www.amazon.com/s?k=Designing+Machine+Learning+Systems+Chip+Huyen) | [Goodreads](https://www.goodreads.com/book/show/60715378-designing-machine-learning-systems)
-
