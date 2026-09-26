@@ -1,6 +1,6 @@
 # 📊 Bookman Trends
 
-*Last updated: 2026-09-21*
+*Last updated: 2026-09-26*
 
 ## Categories
 
@@ -12,7 +12,7 @@
 | Science Fiction | 9 |
 | Technology & Programming | 8 |
 | Literary Fiction | 8 |
-| Business & Strategy | 5 |
+| Business & Strategy | 6 |
 | Self-Help & Spirituality | 5 |
 | Business & Innovation | 4 |
 | Product Development | 4 |
@@ -33,6 +33,7 @@
 | Self-Help & Philosophy | 2 |
 | Product Management | 2 |
 | Philosophy & Ethics | 2 |
+| Communication & Business Writing | 2 |
 | Science & Creativity | 1 |
 | Marketing & Business | 1 |
 | History & Business | 1 |
@@ -63,9 +64,10 @@
 | Business & Creator Economy | 1 |
 | Biography & Memoir | 1 |
 | Communication & Leadership | 1 |
-| Communication & Business Writing | 1 |
 | Business & Pricing | 1 |
 | Psychology & Behavioral Economics | 1 |
+| Education & Learning | 1 |
+| Health & Science | 1 |
 
 ## Most Featured Authors
 
@@ -73,13 +75,12 @@
 |--------|-------|
 | Michelle Rial | 3 |
 | Clayton Christensen | 3 |
-| Jim Collins | 3 |
 | Madhavan Ramanujam | 2 |
-| Nancy Duarte | 2 |
-| Sam Lessin | 2 |
+| Hamilton Helmer | 2 |
+| Sam Lessin & Jack Raines | 2 |
 | Douglas Hofstadter | 2 |
+| Jim Collins | 2 |
 | Ken Liu | 2 |
-| Ryan Holiday | 2 |
 | Eric Ries | 2 |
 | Chip Huyen | 2 |
 | Donna Lichaw | 2 |
@@ -121,6 +122,7 @@
 | Creativity, Inc. | Ed Catmull | 2 |
 | Crossing the Chasm | Geoffrey Moore | 2 |
 | Thinking in Systems | Donella H. Meadows | 2 |
+| Shoe Dog | Phil Knight | 2 |
 | Mindset: The New Psychology of Success | Carol S. Dweck | 2 |
 | Thinking in Bets | Annie Duke | 2 |
 | Atomic Habits | James Clear | 2 |
@@ -140,4 +142,4 @@
 | 2026-06 | 15 |
 | 2026-07 | 25 |
 | 2026-08 | 5 |
-| 2026-09 | 10 |
+| 2026-09 | 14 |
