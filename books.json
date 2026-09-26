@@ -686,7 +686,7 @@
     "goodreads_rating": null,
     "goodreads_url": null,
     "amazon_url": "https://www.amazon.com/s?k=Shoe+Dog+Phil+Knight",
-    "times_recommended": 1,
+    "times_recommended": 2,
     "added_at": "2026-04-05"
   },
   {
@@ -2383,5 +2383,65 @@
     "amazon_url": "https://www.amazon.com/s?k=Sprint%20Jake%20Knapp%2C%20John%20Zeratsky",
     "times_recommended": 1,
     "added_at": "2026-09-21"
+  },
+  {
+    "id": "7-powers-hamilton-helmer",
+    "title": "7 Powers",
+    "author": "Hamilton Helmer",
+    "category": "Business & Strategy",
+    "guest": "Grant Lee",
+    "episode_title": "How Gamma Hit $100M ARR With 30 People and Word of Mouth",
+    "episode_date": "2026-09-24",
+    "source_url": "https://batlab.substack.com/p/how-gamma-hit-100m-arr-with-30-people",
+    "goodreads_rating": 4.25,
+    "goodreads_url": "https://www.goodreads.com/book/show/32816087-7-powers",
+    "amazon_url": "https://www.amazon.com/s?k=7%20Powers%20Hamilton%20Helmer",
+    "times_recommended": 1,
+    "added_at": "2026-09-26"
+  },
+  {
+    "id": "nobody-wants-to-read-your-sht-steven-pressfield",
+    "title": "Nobody Wants to Read Your Sh*t",
+    "author": "Steven Pressfield",
+    "category": "Communication & Business Writing",
+    "guest": "Grant Lee",
+    "episode_title": "How Gamma Hit $100M ARR With 30 People and Word of Mouth",
+    "episode_date": "2026-09-24",
+    "source_url": "https://batlab.substack.com/p/how-gamma-hit-100m-arr-with-30-people",
+    "goodreads_rating": 4.18,
+    "goodreads_url": "https://www.goodreads.com/book/show/30556551-nobody-wants-to-read-your-sh-t",
+    "amazon_url": "https://www.amazon.com/s?k=Nobody%20Wants%20to%20Read%20Your%20Sh%2At%20Steven%20Pressfield",
+    "times_recommended": 1,
+    "added_at": "2026-09-26"
+  },
+  {
+    "id": "the-one-world-schoolhouse-sal-khan",
+    "title": "The One World Schoolhouse",
+    "author": "Sal Khan",
+    "category": "Education & Learning",
+    "guest": "Logan Kilpatrick",
+    "episode_title": "Context Is All You Need: Logan Kilpatrick on Building With AI",
+    "episode_date": "2026-09-25",
+    "source_url": "https://batlab.substack.com/p/context-is-all-you-need-logan-kilpatrick",
+    "goodreads_rating": 4.33,
+    "goodreads_url": "https://www.goodreads.com/book/show/15898640-the-one-world-schoolhouse",
+    "amazon_url": "https://www.amazon.com/s?k=The%20One%20World%20Schoolhouse%20Sal%20Khan",
+    "times_recommended": 1,
+    "added_at": "2026-09-26"
+  },
+  {
+    "id": "why-we-sleep-matthew-walker",
+    "title": "Why We Sleep",
+    "author": "Matthew Walker",
+    "category": "Health & Science",
+    "guest": "Logan Kilpatrick",
+    "episode_title": "Context Is All You Need: Logan Kilpatrick on Building With AI",
+    "episode_date": "2026-09-25",
+    "source_url": "https://batlab.substack.com/p/context-is-all-you-need-logan-kilpatrick",
+    "goodreads_rating": 4.36,
+    "goodreads_url": "https://www.goodreads.com/book/show/34466963-why-we-sleep",
+    "amazon_url": "https://www.amazon.com/s?k=Why%20We%20Sleep%20Matthew%20Walker",
+    "times_recommended": 1,
+    "added_at": "2026-09-26"
   }
     ]
