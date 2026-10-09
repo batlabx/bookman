@@ -1,13 +1,13 @@
 # 📊 Bookman Trends
 
-*Last updated: 2026-09-26*
+*Last updated: 2026-10-09*
 
 ## Categories
 
 | Category | Books |
 |----------|-------|
-| Leadership & Management | 17 |
-| Self-Help & Psychology | 15 |
+| Leadership & Management | 19 |
+| Self-Help & Psychology | 16 |
 | Business & Startups | 13 |
 | Science Fiction | 9 |
 | Technology & Programming | 8 |
@@ -56,7 +56,7 @@
 | Leadership & Sports | 1 |
 | Self-Help & Sports | 1 |
 | Finance & Economics | 1 |
-| Politics & Society | 1 |
+| Politics & Society | 2 |
 | Business & Ethics | 1 |
 | Science Fiction & Fantasy | 1 |
 | Design & Architecture | 1 |
@@ -143,3 +143,4 @@
 | 2026-07 | 25 |
 | 2026-08 | 5 |
 | 2026-09 | 14 |
+| 2026-10 | 4 |
