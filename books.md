@@ -1,8 +1,16 @@
 # 📚 Bookman: Lenny's Podcast Book Recommendations
 
-*163 books from 64 episodes. Last updated: 2026-09-26.*
+*167 books from 65 episodes. Last updated: 2026-10-09.*
 
 ---
+
+## Treat Your Career Like a Product: Deb Liu on Resilience
+**Guest:** Deb Liu | **Date:** 2026-10-02
+
+- **Power: Who Has It and Why** by Jeffrey Pfeffer — [Amazon](https://www.amazon.com/s?k=Power%3A%20Who%20Has%20It%20and%20Why%20Jeffrey%20Pfeffer)
+- **7 Rules of Power** by Jeffrey Pfeffer — [Amazon](https://www.amazon.com/s?k=7%20Rules%20of%20Power%20Jeffrey%20Pfeffer)
+- **The Conversation** by Robert Livingston — [Amazon](https://www.amazon.com/s?k=The%20Conversation%20Robert%20Livingston)
+- **Quiet** by Susan Cain — [Amazon](https://www.amazon.com/s?k=Quiet%20Susan%20Cain)
 
 ## Context Is All You Need: Logan Kilpatrick on Building With AI
 **Guest:** Logan Kilpatrick | **Date:** 2026-09-25
